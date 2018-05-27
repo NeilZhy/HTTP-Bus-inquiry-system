@@ -228,7 +228,7 @@ int connetser(char *query_str)
 	//ofstream fout;
 	//ofstream fout("tt",ios::binary|ios::noreplace);
 	ofstream fout("./wwwroot/haha.html");
-    fout<<"<html><head><meta charset=\"utf-8\"><title>haha</title></head><body>"<<it->text()<<"</body></html>";
+    fout<<"<html><head><meta charset=\"utf-8\"><title>公交查询系统</title></head><body>"<<it->text()<<"</body></html>";
 	fout<<flush;
 	fout.close();
 	}
