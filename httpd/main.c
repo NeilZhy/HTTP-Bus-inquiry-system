@@ -21,7 +21,7 @@ int main(int argc,char *argv[])
 		socklen_t  len = sizeof(client);
 		int new_sock = accept(listen_sock,(struct sockaddr*)&client,&len);
 	
-		printf("链接成功了\n");
+		//printf("链接成功了\n");
 		if(new_sock < 0)
 		{
 			print_log(strerror(errno),FATAL);
@@ -30,7 +30,7 @@ int main(int argc,char *argv[])
 		printf("客户端 \nclient_client_sock  [ip :%s :port %d]\n",inet_ntoa(client.sin_addr),ntohs(client.sin_port));
 
 		pthread_t id;
-		printf("綫裎创建成功了\n");
+		//綫裎创建成功了
 		int ret = pthread_create(&id,NULL,handler_request,(void *)new_sock);
 		if(ret != 0)
 		{

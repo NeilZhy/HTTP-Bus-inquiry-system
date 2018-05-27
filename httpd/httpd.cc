@@ -10,9 +10,23 @@
 #include<iostream>
 #include<io.h>
 #include<string>
+#include<vector>
+#include<sstream>
 
 using namespace std;
 using namespace htmlcxx;
+
+string replaceALL(string src, const string& target,const string& subs) 
+{
+    string tmp(src);
+    string::size_type pos =tmp.find(target),targetSize =target.size(),resSize =subs.size();  
+    while(pos!=string::npos)//found  
+    {  
+        tmp.replace(pos,targetSize,subs);   
+        pos =tmp.find(target, pos + resSize);   
+    }  
+    return tmp;
+}
 
 void print_log(char *msg,int level)
 {
@@ -155,10 +169,10 @@ int connetser(char *query_str)
     local.sin_port = htons(80);
     local.sin_addr.s_addr=inet_addr("1.85.11.58");
     int a =  connect(sock,(struct sockaddr*)&local,sizeof(local));
-    if(a == 0)
-    {
-      printf("我们已经爬到了网站上面啦！！！\n");
-    }
+    //if(a == 0)
+    //{
+    //  printf("我们已经爬到了网站上面啦！！！\n");
+    //}
 
 
     char echo_line[420] = "GET /chaxun/bus/busreserch2.asp?keyword=";
@@ -166,7 +180,7 @@ int connetser(char *query_str)
     strcat(echo_line,query_str);  //传入的参数，是为了这里接到请求报头上面来的
     strcat(echo_line,echo_line2);
     send(sock,echo_line,strlen(echo_line),0);
-    printf("正在查询，请稍后\n");
+    //printf("正在查询，请稍后\n");
     char buf[5000];
     char arr[5000];
     char *pin = buf;
@@ -215,13 +229,35 @@ int connetser(char *query_str)
 
 	if(ii>2500)
 	{
-        FILE* pf = fopen("txt","a+");
-        fwrite(arr,1,strlen(arr),pf);
+        //FILE* pf = fopen("txt","a+");
+        //fwrite(arr,1,strlen(arr),pf);
+        //string filename = "336.html";
+        //fstream in(filename.c_str());
+        //string html;
+        //if(!in)
+        //{
+        //    cout<<"error"<<endl;
+        //}
+        //string htmltmp;
+        //while(in>>htmltmp)
+        //{
+        //    html += htmltmp;
+        //}
+        //cout<<"  html    "<<html<<endl;
 	    HTML::ParserDom parser;
 	    tree<HTML::Node> dom = parser.parseTree(arr);
         tree<HTML::Node>::iterator it = dom.begin();
-        tree<HTML::Node>::iterator end = dom.end();
-
+        //tree<HTML::Node>::iterator end = dom.end();
+        //cout<<"dom   "<<endl<<dom<<endl;
+	    //HTML::ParserDom par;
+	    //tree<HTML::Node> d = par.parseTree(html);
+        //tree<HTML::Node>::iterator ithtml = d.begin();
+        //cout<<d<<endl;
+        //ithtml += 15;
+        ////ithtml->text() = "hahahahhaha";
+        //cout<<"      ithtml      "<<ithtml->text()<<endl;
+        string prev = "<html><head><meta charset=\"utf-8\"></html><div class=\"container-fluid\"><div class=\"row-fluid\"> <div class=\"span12\"><h3 class=\"text-center\"> 公交查询系统</h3><form name=\"input\" action=\"haha.html\" method=\"get\">车次号: <input type=\"text\" name=\"user\"><input type=\"submit\" value=\"查询\">";
+        string next = "<p> </p></div></div></div>";
 
         //输出所有的文本节点内容
 	    it+=130;
@@ -229,7 +265,22 @@ int connetser(char *query_str)
         path += query_str;
         path += ".html";
 	    ofstream fout(path);
-        fout<<"<html><head><meta charset=\"utf-8\"><title>公交查询系统</title></head><body>"<<it->text()<<"</body></html>";
+        //fout<<"<html><head><meta charset=\"utf-8\"><title>公交查询系统</title></head><body>"<<it->text()<<"</body></html>";
+        string str = it->text();   //str中的内容就是各个站点
+        str = replaceALL(str,"、"," ");
+        string middle;
+        string tmp;
+        vector<string> mini;
+        stringstream ss(str);
+        while(ss>>tmp)
+        {
+            middle += "<p>";
+            middle += tmp;
+            middle += "</p>";
+            //mini.push_back(tmp);
+        }
+        string text = prev + middle + next;
+        fout<<text;
 	    fout<<flush;
 	    fout.close();
         return 0;

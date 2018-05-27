@@ -39689,4 +39689,4527 @@ line :
 quit client ...
 链接成功了
 
-新的链接sock  port [222.41.155.16 : 414
+新的链接sock  port [222.41.155.16 : 41478]
+line : GET /favicon.ico HTTP/1.1
+
+method : GET url :/favicon.ico
+quit client ...
+链接成功了
+
+新的链接sock  port [70.77.66.129 : 44621]
+line : GET / HTTP/1.1
+
+method : GET url :/
+这里不管是不是正确的路径，都进入到这个函数内部了，是什么原因
+method : GET
+ url :/ 
+ path : wwwroot/index.html
+ cgi : 0
+query_string:
+    line : Host: 111.230.233.159:80
+
+line : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/601.7.7 (KHTML, like Gecko) Version/9.1.2 Safari/601.7.7
+
+line : Content-Length: 0
+
+line : 
+
+quit client ...
+链接成功了
+
+新的链接sock  port [139.162.88.63 : 32886]
+line : 
+quit client ...
+链接成功了
+
+新的链接sock  port [103.81.171.93 : 2698]
+line : GET / HTTP/1.1
+
+method : GET url :/
+这里不管是不是正确的路径，都进入到这个函数内部了，是什么原因
+method : GET
+ url :/ 
+ path : wwwroot/index.html
+ cgi : 0
+query_string:
+    line : Accept: */*
+
+line : Referer: http://111.230.233.159:80
+
+line : Accept-Language: zh-cn
+
+line : User-Agent: Mozilla/4.0 (compatible; MSIE 9.0; Windows NT 6.1)
+
+line : Content-Type: application/x-www-form-urlencoded
+
+line : Host: 111.230.233.159
+
+line : Connection: Keep-Alive
+
+line : 
+
+quit client ...
+链接成功了
+
+新的链接sock  port [141.212.122.128 : 21769]
+line : GET /x HTTP/1.1
+
+method : GET url :/x
+quit client ...
+链接成功了
+
+新的链接sock  port [210.4.75.98 : 42387]
+line : GET / HTTP/1.1
+
+method : GET url :/
+这里不管是不是正确的路径，都进入到这个函数内部了，是什么原因
+method : GET
+ url :/ 
+ path : wwwroot/index.html
+ cgi : 0
+query_string:
+    line : Host: 111.230.233.159:80
+
+line : User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36
+
+line : Content-Length: 0
+
+line : 
+
+quit client ...
+链接成功了
+
+新的链接sock  port [180.148.213.42 : 40901]
+line : GET / HTTP/1.1
+
+method : GET url :/
+这里不管是不是正确的路径，都进入到这个函数内部了，是什么原因
+method : GET
+ url :/ 
+ path : wwwroot/index.html
+ cgi : 0
+query_string:
+    line : Host: 111.230.233.159:80
+
+line : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/601.7.7 (KHTML, like Gecko) Version/9.1.2 Safari/601.7.7
+
+line : Content-Length: 0
+
+line : 
+
+quit client ...
+链接成功了
+
+新的链接sock  port [114.129.21.118 : 40084]
+line : GET / HTTP/1.1
+
+method : GET url :/
+这里不管是不是正确的路径，都进入到这个函数内部了，是什么原因
+method : GET
+ url :/ 
+ path : wwwroot/index.html
+ cgi : 0
+query_string:
+    line : Host: 111.230.233.159:80
+
+line : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/601.7.7 (KHTML, like Gecko) Version/9.1.2 Safari/601.7.7
+
+line : Content-Length: 0
+
+line : 
+
+quit client ...
+链接成功了
+
+新的链接sock  port [109.245.221.249 : 33063]
+line : GET / HTTP/1.1
+
+method : GET url :/
+这里不管是不是正确的路径，都进入到这个函数内部了，是什么原因
+method : GET
+ url :/ 
+ path : wwwroot/index.html
+ cgi : 0
+query_string:
+    line : Host: 111.230.233.159:80
+
+line : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/601.7.7 (KHTML, like Gecko) Version/9.1.2 Safari/601.7.7
+
+line : Content-Length: 0
+
+line : 
+
+quit client ...
+链接成功了
+
+新的链接sock  port [222.41.155.16 : 54162]
+line : GET / HTTP/1.1
+
+method : GET url :/
+这里不管是不是正确的路径，都进入到这个函数内部了，是什么原因
+method : GET
+ url :/ 
+ path : wwwroot/index.html
+ cgi : 0
+query_string:
+    line : Host: www.neilzhy.xyz
+
+line : Connection: keep-alive
+
+line : Upgrade-Insecure-Requests: 1
+
+line : User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+
+line : Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+
+line : Accept-Encoding: gzip, deflate
+
+line : Accept-Language: zh-CN,zh;q=0.9
+
+line : 
+
+quit client ...
+链接成功了
+
+新的链接sock  port [222.41.155.16 : 54163]
+line : GET /favicon.ico HTTP/1.1
+
+method : GET url :/favicon.ico
+quit client ...
+链接成功了
+
+新的链接sock  port [222.41.155.16 : 54168]
+line : GET /favicon.ico HTTP/1.1
+
+method : GET url :/favicon.ico
+quit client ...
+链接成功了
+
+新的链接sock  port [222.41.155.16 : 54171]
+line : GET /haha.html?user=336 HTTP/1.1
+
+method : GET url :/haha.html?user=336
+这里不管是不是正确的路径，都进入到这个函数内部了，是什么原因
+
+
+
+
+
+
+文件存在path wwwroot/train_number/336.html       query_stri336.html
+
+
+
+method : GET
+ url :/haha.html 
+ path : wwwroot/train_number/336.html
+ cgi : 1
+query_string:336.html
+    line : Host: www.neilzhy.xyz
+
+line : Connection: keep-alive
+
+line : Upgrade-Insecure-Requests: 1
+
+line : User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+
+line : Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+
+line : Referer: http://www.neilzhy.xyz/
+
+line : Accept-Encoding: gzip, deflate
+
+line : Accept-Language: zh-CN,zh;q=0.9
+
+line : 
+
+quit client ...
+链接成功了
+
+新的链接sock  port [222.41.155.16 : 54173]
+line : GET /favicon.ico HTTP/1.1
+
+method : GET url :/favicon.ico
+quit client ...
+链接成功了
+
+新的链接sock  port [222.41.155.16 : 54185]
+line : GET /haha.html? HTTP/1.1
+
+method : GET url :/haha.html?
+这里不管是不是正确的路径，都进入到这个函数内部了，是什么原因
+我们已经爬到了网站上面啦！！！
+正在查询，请稍后
+method : GET
+ url :/haha.html 
+ path : wwwroot/train_number/336.html.html
+ cgi : 1
+query_string:336
+    line : Host: www.neilzhy.xyz
+
+line : Connection: keep-alive
+
+line : Upgrade-Insecure-Requests: 1
+
+line : User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+
+line : Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+
+line : Referer: http://www.neilzhy.xyz/haha.html?user=336
+
+line : Accept-Encoding: gzip, deflate
+
+line : Accept-Language: zh-CN,zh;q=0.9
+
+line : 
+
+[No such file or directory][FATAL]
+quit client ...
+链接成功了
+
+新的链接sock  port [222.41.155.16 : 54189]
+line : GET /haha.html? HTTP/1.1
+
+method : GET url :/haha.html?
+这里不管是不是正确的路径，都进入到这个函数内部了，是什么原因
+
+
+
+
+
+
+文件存在path wwwroot/train_number/336.html       query_stri336.html
+
+
+
+method : GET
+ url :/haha.html 
+ path : wwwroot/train_number/336.html
+ cgi : 1
+query_string:336.html
+    line : Host: www.neilzhy.xyz
+
+line : Connection: keep-alive
+
+line : Cache-Control: max-age=0
+
+line : Upgrade-Insecure-Requests: 1
+
+line : User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+
+line : Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+
+line : Accept-Encoding: gzip, deflate
+
+line : Accept-Language: zh-CN,zh;q=0.9
+
+line : 
+
+quit client ...
+链接成功了
+
+新的链接sock  port [222.41.155.16 : 54188]
+line : GET /favicon.ico HTTP/1.1
+
+method : GET url :/favicon.ico
+quit client ...
+链接成功了
+
+新的链接sock  port [222.41.155.16 : 54190]
+line : GET /favicon.ico HTTP/1.1
+
+method : GET url :/favicon.ico
+quit client ...
+链接成功了
+
+新的链接sock  port [222.41.155.16 : 54210]
+line : GET /favicon.ico HTTP/1.1
+
+method : GET url :/favicon.ico
+quit client ...
+链接成功了
+
+新的链接sock  port [222.41.155.16 : 54216]
+line : GET /haha.html? HTTP/1.1
+
+method : GET url :/haha.html?
+这里不管是不是正确的路径，都进入到这个函数内部了，是什么原因
+我们已经爬到了网站上面啦！！！
+正在查询，请稍后
+method : GET
+ url :/haha.html 
+ path : wwwroot/train_number/336.html.html
+ cgi : 1
+query_string:336
+    line : Host: www.neilzhy.xyz
+
+line : Connection: keep-alive
+
+line : Upgrade-Insecure-Requests: 1
+
+line : User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+
+line : Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+
+line : Referer: http://www.neilzhy.xyz/haha.html?user=336
+
+line : Accept-Encoding: gzip, deflate
+
+line : Accept-Language: zh-CN,zh;q=0.9
+
+line : 
+
+[No such file or directory][FATAL]
+quit client ...
+链接成功了
+
+新的链接sock  port [222.41.155.16 : 54219]
+line : GET /haha.html? HTTP/1.1
+
+method : GET url :/haha.html?
+这里不管是不是正确的路径，都进入到这个函数内部了，是什么原因
+
+
+
+
+
+
+文件存在path wwwroot/train_number/336.html       query_stri336.html
+
+
+
+method : GET
+ url :/haha.html 
+ path : wwwroot/train_number/336.html
+ cgi : 1
+query_string:336.html
+    line : Host: www.neilzhy.xyz
+
+line : Connection: keep-alive
+
+line : Cache-Control: max-age=0
+
+line : Upgrade-Insecure-Requests: 1
+
+line : User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+
+line : Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+
+line : Accept-Encoding: gzip, deflate
+
+line : Accept-Language: zh-CN,zh;q=0.9
+
+line : 
+
+quit client ...
+链接成功了
+
+新的链接sock  port [222.41.155.16 : 54218]
+line : GET /favicon.ico HTTP/1.1
+
+method : GET url :/favicon.ico
+quit client ...
+链接成功了
+
+新的链接sock  port [222.41.155.16 : 54220]
+line : GET /favicon.ico HTTP/1.1
+
+method : GET url :/favicon.ico
+quit client ...
+链接成功了
+
+新的链接sock  port [222.41.155.16 : 54229]
+line : GET /favicon.ico HTTP/1.1
+
+method : GET url :/favicon.ico
+quit client ...
+链接成功了
+
+新的链接sock  port [222.41.155.16 : 54233]
+line : GET /favicon.ico HTTP/1.1
+
+method : GET url :/favicon.ico
+quit client ...
+链接成功了
+
+新的链接sock  port [222.41.155.16 : 54234]
+链接成功了
+
+新的链接sock  port [222.41.155.16 : 54232]
+line : GET / HTTP/1.1
+
+method : GET url :/
+这里不管是不是正确的路径，都进入到这个函数内部了，是什么原因
+method : GET
+ url :/ 
+ path : wwwroot/index.html
+ cgi : 0
+query_string:
+    line : Host: www.neilzhy.xyz
+
+line : Connection: keep-alive
+
+line : Cache-Control: max-age=0
+
+line : Upgrade-Insecure-Requests: 1
+
+line : User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+
+line : Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+
+line : Accept-Encoding: gzip, deflate
+
+line : Accept-Language: zh-CN,zh;q=0.9
+
+line : 
+
+quit client ...
+链接成功了
+
+新的链接sock  port [222.41.155.16 : 54246]
+line : GET /favicon.ico HTTP/1.1
+
+method : GET url :/favicon.ico
+quit client ...
+line : GET /favicon.ico HTTP/1.1
+
+method : GET url :/favicon.ico
+quit client ...
+链接成功了
+
+新的链接sock  port [222.41.155.16 : 54247]
+line : GET /favicon.ico HTTP/1.1
+
+method : GET url :/favicon.ico
+quit client ...
+链接成功了
+
+新的链接sock  port [222.41.155.16 : 54266]
+line : GET /haha.html?user=719 HTTP/1.1
+
+method : GET url :/haha.html?user=719
+这里不管是不是正确的路径，都进入到这个函数内部了，是什么原因
+
+
+
+
+
+
+文件存在path wwwroot/train_number/719.html       query_stri719.html
+
+
+
+method : GET
+ url :/haha.html 
+ path : wwwroot/train_number/719.html
+ cgi : 1
+query_string:719.html
+    line : Host: www.neilzhy.xyz
+
+line : Connection: keep-alive
+
+line : Upgrade-Insecure-Requests: 1
+
+line : User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+
+line : Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+
+line : Referer: http://www.neilzhy.xyz/
+
+line : Accept-Encoding: gzip, deflate
+
+line : Accept-Language: zh-CN,zh;q=0.9
+
+line : 
+
+quit client ...
+链接成功了
+
+新的链接sock  port [222.41.155.16 : 54267]
+line : GET /favicon.ico HTTP/1.1
+
+method : GET url :/favicon.ico
+quit client ...
+链接成功了
+
+新的链接sock  port [222.41.155.16 : 54272]
+line : GET /favicon.ico HTTP/1.1
+
+method : GET url :/favicon.ico
+quit client ...
+链接成功了
+
+新的链接sock  port [222.41.155.16 : 54273]
+链接成功了
+
+新的链接sock  port [222.41.155.16 : 54274]
+line : GET /haha.html?user=336 HTTP/1.1
+
+method : GET url :/haha.html?user=336
+这里不管是不是正确的路径，都进入到这个函数内部了，是什么原因
+
+
+
+
+
+
+文件存在path wwwroot/train_number/336.html       query_stri336.html
+
+
+
+method : GET
+ url :/haha.html 
+ path : wwwroot/train_number/336.html
+ cgi : 1
+query_string:336.html
+    line : Host: www.neilzhy.xyz
+
+line : Connection: keep-alive
+
+line : Upgrade-Insecure-Requests: 1
+
+line : User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+
+line : Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+
+line : Referer: http://www.neilzhy.xyz/
+
+line : Accept-Encoding: gzip, deflate
+
+line : Accept-Language: zh-CN,zh;q=0.9
+
+line : 
+
+quit client ...
+line : GET /favicon.ico HTTP/1.1
+
+method : GET url :/favicon.ico
+quit client ...
+链接成功了
+
+新的链接sock  port [222.41.155.16 : 54283]
+line : GET /favicon.ico HTTP/1.1
+
+method : GET url :/favicon.ico
+quit client ...
+链接成功了
+
+新的链接sock  port [222.41.155.16 : 54397]
+链接成功了
+
+新的链接sock  port [222.41.155.16 : 54398]
+line : GET /haha.html?user=336 HTTP/1.1
+
+method : GET url :/haha.html?user=336
+这里不管是不是正确的路径，都进入到这个函数内部了，是什么原因
+
+
+
+
+
+
+文件存在path wwwroot/train_number/336.html       query_stri336.html
+
+
+
+method : GET
+ url :/haha.html 
+ path : wwwroot/train_number/336.html
+ cgi : 1
+query_string:336.html
+    line : Host: www.neilzhy.xyz
+
+line : Connection: keep-alive
+
+line : Cache-Control: max-age=0
+
+line : Upgrade-Insecure-Requests: 1
+
+line : User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+
+line : Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+
+line : Accept-Encoding: gzip, deflate
+
+line : Accept-Language: zh-CN,zh;q=0.9
+
+line : 
+
+quit client ...
+链接成功了
+
+新的链接sock  port [222.41.155.16 : 54399]
+line : GET /favicon.ico HTTP/1.1
+
+method : GET url :/favicon.ico
+quit client ...
+line : GET /favicon.ico HTTP/1.1
+
+method : GET url :/favicon.ico
+quit client ...
+链接成功了
+
+新的链接sock  port [222.41.155.16 : 54400]
+line : GET /favicon.ico HTTP/1.1
+
+method : GET url :/favicon.ico
+quit client ...
+链接成功了
+
+新的链接sock  port [222.41.155.16 : 54414]
+链接成功了
+
+新的链接sock  port [222.41.155.16 : 54413]
+line : GET /haha.html?user=336 HTTP/1.1
+
+method : GET url :/haha.html?user=336
+这里不管是不是正确的路径，都进入到这个函数内部了，是什么原因
+
+
+
+
+
+
+文件存在path wwwroot/train_number/336.html       query_stri336.html
+
+
+
+method : GET
+ url :/haha.html 
+ path : wwwroot/train_number/336.html
+ cgi : 1
+query_string:336.html
+    line : Host: www.neilzhy.xyz
+
+line : Connection: keep-alive
+
+line : Cache-Control: max-age=0
+
+line : Upgrade-Insecure-Requests: 1
+
+line : User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+
+line : Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+
+line : Accept-Encoding: gzip, deflate
+
+line : Accept-Language: zh-CN,zh;q=0.9
+
+line : 
+
+quit client ...
+链接成功了
+
+新的链接sock  port [222.41.155.16 : 54415]
+line : GET /favicon.ico HTTP/1.1
+
+method : GET url :/favicon.ico
+quit client ...
+line : GET /favicon.ico HTTP/1.1
+
+method : GET url :/favicon.ico
+quit client ...
+链接成功了
+
+新的链接sock  port [222.41.155.16 : 54416]
+line : GET /favicon.ico HTTP/1.1
+
+method : GET url :/favicon.ico
+quit client ...
+链接成功了
+
+新的链接sock  port [222.41.155.16 : 54419]
+line : GET /haha.html?user=336 HTTP/1.1
+
+method : GET url :/haha.html?user=336
+这里不管是不是正确的路径，都进入到这个函数内部了，是什么原因
+
+
+
+
+
+
+文件存在path wwwroot/train_number/336.html       query_stri336.html
+
+
+
+method : GET
+ url :/haha.html 
+ path : wwwroot/train_number/336.html
+ cgi : 1
+query_string:336.html
+    line : Host: www.neilzhy.xyz
+
+line : Connection: keep-alive
+
+line : Cache-Control: max-age=0
+
+line : Upgrade-Insecure-Requests: 1
+
+line : User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+
+line : Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+
+line : Accept-Encoding: gzip, deflate
+
+line : Accept-Language: zh-CN,zh;q=0.9
+
+line : 
+
+quit client ...
+链接成功了
+
+新的链接sock  port [222.41.155.16 : 54417]
+链接成功了
+
+新的链接sock  port [222.41.155.16 : 54418]
+line : GET /favicon.ico HTTP/1.1
+
+method : GET url :/favicon.ico
+quit client ...
+line : GET /favicon.ico HTTP/1.1
+
+method : GET url :/favicon.ico
+quit client ...
+链接成功了
+
+新的链接sock  port [222.41.155.16 : 54421]
+line : GET /favicon.ico HTTP/1.1
+
+method : GET url :/favicon.ico
+quit client ...
+链接成功了
+
+新的链接sock  port [222.41.155.16 : 54427]
+line : GET /haha.html? HTTP/1.1
+
+method : GET url :/haha.html?
+这里不管是不是正确的路径，都进入到这个函数内部了，是什么原因
+我们已经爬到了网站上面啦！！！
+正在查询，请稍后
+method : GET
+ url :/haha.html 
+ path : wwwroot/train_number/336.html.html
+ cgi : 1
+query_string:336
+    line : Host: www.neilzhy.xyz
+
+line : Connection: keep-alive
+
+line : Upgrade-Insecure-Requests: 1
+
+line : User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+
+line : Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+
+line : Referer: http://www.neilzhy.xyz/haha.html?user=336
+
+line : Accept-Encoding: gzip, deflate
+
+line : Accept-Language: zh-CN,zh;q=0.9
+
+line : 
+
+[No such file or directory][FATAL]
+quit client ...
+链接成功了
+
+新的链接sock  port [222.41.155.16 : 54442]
+line : GET /haha.html? HTTP/1.1
+
+method : GET url :/haha.html?
+这里不管是不是正确的路径，都进入到这个函数内部了，是什么原因
+
+
+
+
+
+
+文件存在path wwwroot/train_number/336.html       query_stri336.html
+
+
+
+method : GET
+ url :/haha.html 
+ path : wwwroot/train_number/336.html
+ cgi : 1
+query_string:336.html
+    line : Host: www.neilzhy.xyz
+
+line : Connection: keep-alive
+
+line : Cache-Control: max-age=0
+
+line : Upgrade-Insecure-Requests: 1
+
+line : User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+
+line : Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+
+line : Accept-Encoding: gzip, deflate
+
+line : Accept-Language: zh-CN,zh;q=0.9
+
+line : 
+
+quit client ...
+链接成功了
+
+新的链接sock  port [222.41.155.16 : 54444]
+链接成功了
+
+新的链接sock  port [222.41.155.16 : 54443]
+line : GET /favicon.ico HTTP/1.1
+
+method : GET url :/favicon.ico
+quit client ...
+line : GET /favicon.ico HTTP/1.1
+
+method : GET url :/favicon.ico
+quit client ...
+链接成功了
+
+新的链接sock  port [222.41.155.16 : 54448]
+line : GET /favicon.ico HTTP/1.1
+
+method : GET url :/favicon.ico
+quit client ...
+链接成功了
+
+新的链接sock  port [222.41.155.16 : 54607]
+line : GET / HTTP/1.1
+
+method : GET url :/
+这里不管是不是正确的路径，都进入到这个函数内部了，是什么原因
+method : GET
+ url :/ 
+ path : wwwroot/index.html
+ cgi : 0
+query_string:
+    line : Host: www.neilzhy.xyz
+
+line : Connection: keep-alive
+
+line : Upgrade-Insecure-Requests: 1
+
+line : User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+
+line : Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+
+line : Accept-Encoding: gzip, deflate
+
+line : Accept-Language: zh-CN,zh;q=0.9
+
+line : 
+
+quit client ...
+链接成功了
+
+新的链接sock  port [222.41.155.16 : 54606]
+链接成功了
+
+新的链接sock  port [222.41.155.16 : 54608]
+line : GET /favicon.ico HTTP/1.1
+
+method : GET url :/favicon.ico
+quit client ...
+line : GET /favicon.ico HTTP/1.1
+
+method : GET url :/favicon.ico
+quit client ...
+链接成功了
+
+新的链接sock  port [222.41.155.16 : 54612]
+链接成功了
+
+新的链接sock  port [222.41.155.16 : 54613]
+line : GET /favicon.ico HTTP/1.1
+
+method : GET url :/favicon.ico
+quit client ...
+line : GET /favicon.ico HTTP/1.1
+
+method : GET url :/favicon.ico
+quit client ...
+链接成功了
+
+新的链接sock  port [222.41.155.16 : 54615]
+line : GET /favicon.ico HTTP/1.1
+
+method : GET url :/favicon.ico
+quit client ...
+链接成功了
+
+新的链接sock  port [222.41.155.16 : 54631]
+line : GET /haha.html?user=336 HTTP/1.1
+
+method : GET url :/haha.html?user=336
+这里不管是不是正确的路径，都进入到这个函数内部了，是什么原因
+
+
+
+
+
+
+文件存在path wwwroot/train_number/336.html       query_stri336.html
+
+
+
+method : GET
+ url :/haha.html 
+ path : wwwroot/train_number/336.html
+ cgi : 1
+query_string:336.html
+    line : Host: www.neilzhy.xyz
+
+line : Connection: keep-alive
+
+line : Upgrade-Insecure-Requests: 1
+
+line : User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+
+line : Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+
+line : Referer: http://www.neilzhy.xyz/
+
+line : Accept-Encoding: gzip, deflate
+
+line : Accept-Language: zh-CN,zh;q=0.9
+
+line : 
+
+quit client ...
+链接成功了
+
+新的链接sock  port [222.41.155.16 : 54632]
+line : GET /favicon.ico HTTP/1.1
+
+method : GET url :/favicon.ico
+quit client ...
+链接成功了
+
+新的链接sock  port [222.41.155.16 : 54795]
+line : GET /haha.html?user=336 HTTP/1.1
+
+method : GET url :/haha.html?user=336
+这里不管是不是正确的路径，都进入到这个函数内部了，是什么原因
+
+
+
+
+
+
+文件存在path wwwroot/train_number/336.html       query_stri336.html
+
+
+
+method : GET
+ url :/haha.html 
+ path : wwwroot/train_number/336.html
+ cgi : 1
+query_string:336.html
+    line : Host: www.neilzhy.xyz
+
+line : Connection: keep-alive
+
+line : Cache-Control: max-age=0
+
+line : Upgrade-Insecure-Requests: 1
+
+line : User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+
+line : Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+
+line : Accept-Encoding: gzip, deflate
+
+line : Accept-Language: zh-CN,zh;q=0.9
+
+line : 
+
+quit client ...
+链接成功了
+
+新的链接sock  port [222.41.155.16 : 54794]
+链接成功了
+
+新的链接sock  port [222.41.155.16 : 54796]
+line : GET /favicon.ico HTTP/1.1
+
+method : GET url :/favicon.ico
+quit client ...
+line : GET /favicon.ico HTTP/1.1
+
+method : GET url :/favicon.ico
+quit client ...
+链接成功了
+
+新的链接sock  port [222.41.155.16 : 54797]
+line : GET /favicon.ico HTTP/1.1
+
+method : GET url :/favicon.ico
+quit client ...
+链接成功了
+
+新的链接sock  port [222.41.155.16 : 54800]
+line : GET /favicon.ico HTTP/1.1
+
+method : GET url :/favicon.ico
+quit client ...
+链接成功了
+
+新的链接sock  port [222.41.155.16 : 54801]
+链接成功了
+
+新的链接sock  port [222.41.155.16 : 54802]
+line : GET /haha.html?user=336 HTTP/1.1
+
+method : GET url :/haha.html?user=336
+这里不管是不是正确的路径，都进入到这个函数内部了，是什么原因
+
+
+
+
+
+
+文件存在path wwwroot/train_number/336.html       query_stri336.html
+
+
+
+method : GET
+ url :/haha.html 
+ path : wwwroot/train_number/336.html
+ cgi : 1
+query_string:336.html
+    line : Host: www.neilzhy.xyz
+
+line : Connection: keep-alive
+
+line : Upgrade-Insecure-Requests: 1
+
+line : User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+
+line : Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+
+line : Referer: http://www.neilzhy.xyz/
+
+line : Accept-Encoding: gzip, deflate
+
+line : Accept-Language: zh-CN,zh;q=0.9
+
+line : 
+
+quit client ...
+line : GET /favicon.ico HTTP/1.1
+
+method : GET url :/favicon.ico
+quit client ...
+链接成功了
+
+新的链接sock  port [222.41.155.16 : 54805]
+line : GET /favicon.ico HTTP/1.1
+
+method : GET url :/favicon.ico
+quit client ...
+链接成功了
+
+新的链接sock  port [222.41.155.16 : 55106]
+链接成功了
+
+新的链接sock  port [222.41.155.16 : 55105]
+line : GET /favicon.ico HTTP/1.1
+
+method : GET url :/favicon.ico
+quit client ...
+链接成功了
+
+新的链接sock  port [222.41.155.16 : 55104]
+line : 
+quit client ...
+line : 
+quit client ...
+链接成功了
+
+新的链接sock  port [91.192.207.148 : 37056]
+line : GET / HTTP/1.1
+
+method : GET url :/
+这里不管是不是正确的路径，都进入到这个函数内部了，是什么原因
+method : GET
+ url :/ 
+ path : wwwroot/index.html
+ cgi : 0
+query_string:
+    line : Host: 111.230.233.159:80
+
+line : User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36
+
+line : Content-Length: 0
+
+line : 
+
+quit client ...
+链接成功了
+
+新的链接sock  port [222.41.155.16 : 55424]
+line : GET /haha.html?user=336 HTTP/1.1
+
+method : GET url :/haha.html?user=336
+这里不管是不是正确的路径，都进入到这个函数内部了，是什么原因
+
+
+
+
+
+
+文件存在path wwwroot/train_number/336.html       query_stri336.html
+
+
+
+method : GET
+ url :/haha.html 
+ path : wwwroot/train_number/336.html
+ cgi : 1
+query_string:336.html
+    line : Host: www.neilzhy.xyz
+
+line : Connection: keep-alive
+
+line : Upgrade-Insecure-Requests: 1
+
+line : User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+
+line : Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+
+line : Referer: http://www.neilzhy.xyz/
+
+line : Accept-Encoding: gzip, deflate
+
+line : Accept-Language: zh-CN,zh;q=0.9
+
+line : 
+
+quit client ...
+链接成功了
+
+新的链接sock  port [222.41.155.16 : 55425]
+line : GET /favicon.ico HTTP/1.1
+
+method : GET url :/favicon.ico
+quit client ...
+链接成功了
+
+新的链接sock  port [222.41.155.16 : 55429]
+line : GET /haha.html?user=336 HTTP/1.1
+
+method : GET url :/haha.html?user=336
+这里不管是不是正确的路径，都进入到这个函数内部了，是什么原因
+
+
+
+
+
+
+文件存在path wwwroot/train_number/336.html       query_stri336.html
+
+
+
+method : GET
+ url :/haha.html 
+ path : wwwroot/train_number/336.html
+ cgi : 1
+query_string:336.html
+    line : Host: www.neilzhy.xyz
+
+line : Connection: keep-alive
+
+line : Upgrade-Insecure-Requests: 1
+
+line : User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+
+line : Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+
+line : Referer: http://www.neilzhy.xyz/haha.html?user=336
+
+line : Accept-Encoding: gzip, deflate
+
+line : Accept-Language: zh-CN,zh;q=0.9
+
+line : 
+
+quit client ...
+链接成功了
+
+新的链接sock  port [222.41.155.16 : 55430]
+line : GET /favicon.ico HTTP/1.1
+
+method : GET url :/favicon.ico
+quit client ...
+链接成功了
+
+新的链接sock  port [222.41.155.16 : 55433]
+line : GET /haha.html?user=336 HTTP/1.1
+
+method : GET url :/haha.html?user=336
+这里不管是不是正确的路径，都进入到这个函数内部了，是什么原因
+
+
+
+
+
+
+文件存在path wwwroot/train_number/336.html       query_stri336.html
+
+
+
+method : GET
+ url :/haha.html 
+ path : wwwroot/train_number/336.html
+ cgi : 1
+query_string:336.html
+    line : Host: www.neilzhy.xyz
+
+line : Connection: keep-alive
+
+line : Upgrade-Insecure-Requests: 1
+
+line : User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+
+line : Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+
+line : Referer: http://www.neilzhy.xyz/haha.html?user=336
+
+line : Accept-Encoding: gzip, deflate
+
+line : Accept-Language: zh-CN,zh;q=0.9
+
+line : 
+
+quit client ...
+链接成功了
+
+新的链接sock  port [222.41.155.16 : 55434]
+line : GET /favicon.ico HTTP/1.1
+
+method : GET url :/favicon.ico
+quit client ...
+链接成功了
+
+新的链接sock  port [222.41.155.16 : 1057]
+line : GET /haha.html?user=336 HTTP/1.1
+
+method : GET url :/haha.html?user=336
+这里不管是不是正确的路径，都进入到这个函数内部了，是什么原因
+
+
+
+
+
+
+文件存在path wwwroot/train_number/336.html       query_stri336.html
+
+
+
+method : GET
+ url :/haha.html 
+ path : wwwroot/train_number/336.html
+ cgi : 1
+query_string:336.html
+    line : Host: www.neilzhy.xyz
+
+line : Connection: keep-alive
+
+line : Upgrade-Insecure-Requests: 1
+
+line : User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+
+line : Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+
+line : Referer: http://www.neilzhy.xyz/haha.html?user=336
+
+line : Accept-Encoding: gzip, deflate
+
+line : Accept-Language: zh-CN,zh;q=0.9
+
+line : 
+
+quit client ...
+链接成功了
+
+新的链接sock  port [222.41.155.16 : 1060]
+line : GET /favicon.ico HTTP/1.1
+
+method : GET url :/favicon.ico
+quit client ...
+链接成功了
+
+新的链接sock  port [222.41.155.16 : 54942]
+line : GET /favicon.ico HTTP/1.1
+
+method : GET url :/favicon.ico
+quit client ...
+链接成功了
+
+新的链接sock  port [222.41.155.16 : 54941]
+链接成功了
+
+新的链接sock  port [222.41.155.16 : 54940]
+line : GET /haha.html?user=336 HTTP/1.1
+
+method : GET url :/haha.html?user=336
+这里不管是不是正确的路径，都进入到这个函数内部了，是什么原因
+
+
+
+
+
+
+文件存在path wwwroot/train_number/336.html       query_stri336.html
+
+
+
+method : GET
+ url :/haha.html 
+ path : wwwroot/train_number/336.html
+ cgi : 1
+query_string:336.html
+    line : Host: www.neilzhy.xyz
+
+line : Connection: keep-alive
+
+line : Upgrade-Insecure-Requests: 1
+
+line : User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+
+line : Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+
+line : Referer: http://www.neilzhy.xyz/
+
+line : Accept-Encoding: gzip, deflate
+
+line : Accept-Language: zh-CN,zh;q=0.9
+
+line : 
+
+quit client ...
+line : GET /favicon.ico HTTP/1.1
+
+method : GET url :/favicon.ico
+quit client ...
+链接成功了
+
+新的链接sock  port [222.41.155.16 : 54944]
+line : GET /favicon.ico HTTP/1.1
+
+method : GET url :/favicon.ico
+quit client ...
+链接成功了
+
+新的链接sock  port [222.41.155.16 : 1393]
+line : GET /haha.html?user=336 HTTP/1.1
+
+method : GET url :/haha.html?user=336
+这里不管是不是正确的路径，都进入到这个函数内部了，是什么原因
+
+
+
+
+
+
+文件存在path wwwroot/train_number/336.html       query_stri336.html
+
+
+
+method : GET
+ url :/haha.html 
+ path : wwwroot/train_number/336.html
+ cgi : 1
+query_string:336.html
+    line : Host: www.neilzhy.xyz
+
+line : Connection: keep-alive
+
+line : Cache-Control: max-age=0
+
+line : Upgrade-Insecure-Requests: 1
+
+line : User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+
+line : Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+
+line : Accept-Encoding: gzip, deflate
+
+line : Accept-Language: zh-CN,zh;q=0.9
+
+line : 
+
+quit client ...
+链接成功了
+
+新的链接sock  port [222.41.155.16 : 1394]
+链接成功了
+
+新的链接sock  port [222.41.155.16 : 1395]
+line : GET /favicon.ico HTTP/1.1
+
+method : GET url :/favicon.ico
+quit client ...
+line : GET /favicon.ico HTTP/1.1
+
+method : GET url :/favicon.ico
+quit client ...
+链接成功了
+
+新的链接sock  port [222.41.155.16 : 1397]
+line : GET /favicon.ico HTTP/1.1
+
+method : GET url :/favicon.ico
+quit client ...
+链接成功了
+
+新的链接sock  port [222.41.155.16 : 1409]
+链接成功了
+
+新的链接sock  port [222.41.155.16 : 1410]
+line : GET /haha.html?user=336 HTTP/1.1
+
+method : GET url :/haha.html?user=336
+这里不管是不是正确的路径，都进入到这个函数内部了，是什么原因
+
+
+
+
+
+
+文件存在path wwwroot/train_number/336.html       query_stri336.html
+
+
+
+method : GET
+ url :/haha.html 
+ path : wwwroot/train_number/336.html
+ cgi : 1
+query_string:336.html
+    line : Host: www.neilzhy.xyz
+
+line : Connection: keep-alive
+
+line : Cache-Control: max-age=0
+
+line : Upgrade-Insecure-Requests: 1
+
+line : User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+
+line : Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+
+line : Accept-Encoding: gzip, deflate
+
+line : Accept-Language: zh-CN,zh;q=0.9
+
+line : 
+
+quit client ...
+链接成功了
+
+新的链接sock  port [222.41.155.16 : 1408]
+line : GET /favicon.ico HTTP/1.1
+
+method : GET url :/favicon.ico
+quit client ...
+line : GET /favicon.ico HTTP/1.1
+
+method : GET url :/favicon.ico
+quit client ...
+链接成功了
+
+新的链接sock  port [222.41.155.16 : 1411]
+line : GET /favicon.ico HTTP/1.1
+
+method : GET url :/favicon.ico
+quit client ...
+链接成功了
+
+新的链接sock  port [222.41.155.16 : 1503]
+line : GET /haha.html?user=336 HTTP/1.1
+
+method : GET url :/haha.html?user=336
+这里不管是不是正确的路径，都进入到这个函数内部了，是什么原因
+
+
+
+
+
+
+文件存在path wwwroot/train_number/336.html       query_stri336.html
+
+
+
+method : GET
+ url :/haha.html 
+ path : wwwroot/train_number/336.html
+ cgi : 1
+query_string:336.html
+    line : Host: www.neilzhy.xyz
+
+line : Connection: keep-alive
+
+line : Cache-Control: max-age=0
+
+line : Upgrade-Insecure-Requests: 1
+
+line : User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+
+line : Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+
+line : Accept-Encoding: gzip, deflate
+
+line : Accept-Language: zh-CN,zh;q=0.9
+
+line : 
+
+quit client ...
+链接成功了
+
+新的链接sock  port [222.41.155.16 : 1505]
+链接成功了
+
+新的链接sock  port [222.41.155.16 : 1504]
+line : GET /favicon.ico HTTP/1.1
+
+method : GET url :/favicon.ico
+quit client ...
+line : GET /favicon.ico HTTP/1.1
+
+method : GET url :/favicon.ico
+quit client ...
+链接成功了
+
+新的链接sock  port [222.41.155.16 : 1506]
+line : GET /favicon.ico HTTP/1.1
+
+method : GET url :/favicon.ico
+quit client ...
+链接成功了
+
+新的链接sock  port [222.41.155.16 : 1515]
+line : GET /haha.html?user=336 HTTP/1.1
+
+method : GET url :/haha.html?user=336
+这里不管是不是正确的路径，都进入到这个函数内部了，是什么原因
+
+
+
+
+
+
+文件存在path wwwroot/train_number/336.html       query_stri336.html
+
+
+
+method : GET
+ url :/haha.html 
+ path : wwwroot/train_number/336.html
+ cgi : 1
+query_string:336.html
+    line : Host: www.neilzhy.xyz
+
+line : Connection: keep-alive
+
+line : Cache-Control: max-age=0
+
+line : Upgrade-Insecure-Requests: 1
+
+line : User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+
+line : Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+
+line : Accept-Encoding: gzip, deflate
+
+line : Accept-Language: zh-CN,zh;q=0.9
+
+line : 
+
+quit client ...
+链接成功了
+
+新的链接sock  port [222.41.155.16 : 1513]
+链接成功了
+
+新的链接sock  port [222.41.155.16 : 1514]
+line : GET /favicon.ico HTTP/1.1
+
+method : GET url :/favicon.ico
+quit client ...
+line : GET /favicon.ico HTTP/1.1
+
+method : GET url :/favicon.ico
+quit client ...
+链接成功了
+
+新的链接sock  port [222.41.155.16 : 1517]
+line : GET /favicon.ico HTTP/1.1
+
+method : GET url :/favicon.ico
+quit client ...
+链接成功了
+
+新的链接sock  port [202.108.211.56 : 58744]
+line : GET / HTTP/1.1
+
+method : GET url :/
+这里不管是不是正确的路径，都进入到这个函数内部了，是什么原因
+method : GET
+ url :/ 
+ path : wwwroot/index.html
+ cgi : 0
+query_string:
+    line : User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/535.21 (KHTML, like Gecko) Chrome/19.0.1042.0 Safari/535.21
+
+line : Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+
+line : Accept-Encoding: gzip, deflate, sdch
+
+line : Accept-Language: zh-CN,zh;q=0.8,en-US;q=0.6,en;q=0.4
+
+line : Cache-Control: no-cache
+
+line : Pragma: no-cache
+
+line : Upgrade-Insecure-Requests: 1
+
+line : Host: www.lizeyn.club
+
+line : Connection: keep-alive
+
+line : 
+
+quit client ...
+链接成功了
+
+新的链接sock  port [104.192.74.14 : 55398]
+line : GET /robots.txt HTTP/1.1
+
+method : GET url :/robots.txt
+quit client ...
+链接成功了
+
+新的链接sock  port [104.192.74.14 : 55428]
+line : GET /robots.txt HTTP/1.1
+
+method : GET url :/robots.txt
+quit client ...
+链接成功了
+
+新的链接sock  port [104.192.74.14 : 55472]
+line : GET / HTTP/1.1
+
+method : GET url :/
+这里不管是不是正确的路径，都进入到这个函数内部了，是什么原因
+method : GET
+ url :/ 
+ path : wwwroot/index.html
+ cgi : 0
+query_string:
+    line : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36
+
+line : Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+
+line : Accept-Language: en-us
+
+line : Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7)
+
+line : Cache-Control: no-cache
+
+line : Accept-Encoding: gzip,deflate
+
+line : Connection: close
+
+line : Referer: http://www.neilzhy.xyz
+
+line : Host: www.neilzhy.xyz
+
+line : 
+
+quit client ...
+链接成功了
+
+新的链接sock  port [104.192.74.14 : 55498]
+line : GET / HTTP/1.1
+
+method : GET url :/
+这里不管是不是正确的路径，都进入到这个函数内部了，是什么原因
+method : GET
+ url :/ 
+ path : wwwroot/index.html
+ cgi : 0
+query_string:
+    line : Accept-Encoding: gzip
+
+line : User-Agent: Mozilla
+
+line : Host: www.neilzhy.xyz
+
+line : Accept: text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2
+
+line : Connection: keep-alive
+
+line : 
+
+quit client ...
+链接成功了
+
+新的链接sock  port [223.166.151.237 : 62057]
+line : GET / HTTP/1.1
+
+method : GET url :/
+这里不管是不是正确的路径，都进入到这个函数内部了，是什么原因
+method : GET
+ url :/ 
+ path : wwwroot/index.html
+ cgi : 0
+query_string:
+    line : Accept: text/vnd.wap.wml,text/html,application/vnd.wap.xhtml+xml,application/xhtml+xml
+
+line : Accept-Charset: gb2312,iso8859-1,utf-8
+
+line : Accept-Encoding: gzip,deflate
+
+line : Connection: close
+
+line : Content-Length: 0
+
+line : Host: www.neilzhy.xyz
+
+line : Q-UA: KQB22_GA/220020&KMTT_3/200020&JV2&151920&SunMicrosystemswtk&0&4309&V3
+
+line : User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; zh-CN; rv:1.9b4) Gecko/2008030317 Firefox/3.0b4
+
+line : 
+
+quit client ...
+链接成功了
+
+新的链接sock  port [120.204.17.46 : 58704]
+line : GET / HTTP/1.1
+
+method : GET url :/
+这里不管是不是正确的路径，都进入到这个函数内部了，是什么原因
+method : GET
+ url :/ 
+ path : wwwroot/index.html
+ cgi : 0
+query_string:
+    line : Accept: text/vnd.wap.wml,text/html,application/vnd.wap.xhtml+xml,application/xhtml+xml
+
+line : Accept-Charset: gb2312,iso8859-1,utf-8
+
+line : Accept-Encoding: gzip,deflate
+
+line : Connection: close
+
+line : Content-Length: 0
+
+line : Host: www.neilzhy.xyz
+
+line : Q-UA: KQB22_GA/220020&KMTT_3/200020&JV2&151920&SunMicrosystemswtk&0&4309&V3
+
+line : User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; zh-CN; rv:1.9b4) Gecko/2008030317 Firefox/3.0b4
+
+line : 
+
+quit client ...
+链接成功了
+
+新的链接sock  port [61.129.8.203 : 49938]
+line : GET /?nsukey=H3JdSv2BpduA3BIeCn8noZRC3PPQuI9dliIbn2mxETQIkXrTuqzW8nwA0nWr72BLMOVIcOxLO1xXScG2FL4TBf1rtogLblkfK2BMbVOf24ckQp9bb7qGAPQqpCyNC7UUugITuu95ZefsCxduazxivnqLNThc6nr3FURn5kTjd7MX2BMrXAYUM7DM05uXj2F8iKDNL97DwV2CGujneN0rS2F0ex2Beg3D3D HTTP/1.1
+
+method : GET url :/?nsukey=H3JdSv2BpduA3BIeCn8noZRC3PPQuI9dliIbn2mxETQIkXrTuqzW8nwA0nWr72BLMOVIcOxLO1xXScG2FL4TBf1rtogLblkfK2BMbVOf24ckQp9bb7qGAPQqpCyNC7UUugITuu95ZefsCxduazxivnqLNThc6nr3FURn5kTjd7MX2BMrXAYUM7DM05uXj2F8iKDNL97DwV2CGujneN0rS2F0ex2Beg3D3D
+这里不管是不是正确的路径，都进入到这个函数内部了，是什么原因
+我们已经爬到了网站上面啦！！！
+正在查询，请稍后
+
+
+
+
+
+
+
+访问的页面不存在
+
+
+
+path    wwwroot/train_number/empty.html
+
+
+method : GET
+ url :/ 
+ path : wwwroot/train_number/empty.html
+ cgi : 1
+query_string:y=H
+    line : Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+
+line : Accept-Charset: iso-8859-1,*,utf-8
+
+line : Accept-Encoding: gzip
+
+line : Accept-Language: en-us,en
+
+line : Cache-Control: no-cache
+
+line : Connection: close
+
+line : Cookie: lang=zh
+
+line : Host: www.neilzhy.xyz
+
+line : User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_2 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) CriOS/30.0.1599.12 Mobile/11A501 Safari/8536.25 MicroMessenger/6.1.0
+
+line : UserAgent: Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_2 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) CriOS/30.0.1599.12 Mobile/11A501 Safari/8536.25 MicroMessenger/6.1.0
+
+line : 
+
+quit client ...
+链接成功了
+
+新的链接sock  port [61.129.8.203 : 41198]
+链接成功了
+
+新的链接sock  port [111.18.41.63 : 1209]
+链接成功了
+
+新的链接sock  port [101.226.225.59 : 61130]
+line : GET /?nsukey=BOYR6aGrHc2Fh90t1xaKQvr2BX8Zfol0vaaNVj132yQbCx2THNZ62FOENWpX2EJT3U4UEhMExmUK0WgWToXRSOu0gjE92BD9PsgKWSp5Oqii2BHsjWrz8HAWTPiLTKaIxiPrxGK92BpIcQyj4YKAmdLWIh7jvFLa9I09cztEFPDT22FWsrcrRmmYAGwgKldBmZi6ccbJr6wWDHyI5XlelPV02B0DgQ3D3D HTTP/1.1
+
+method : GET url :/?nsukey=BOYR6aGrHc2Fh90t1xaKQvr2BX8Zfol0vaaNVj132yQbCx2THNZ62FOENWpX2EJT3U4UEhMExmUK0WgWToXRSOu0gjE92BD9PsgKWSp5Oqii2BHsjWrz8HAWTPiLTKaIxiPrxGK92BpIcQyj4YKAmdLWIh7jvFLa9I09cztEFPDT22FWsrcrRmmYAGwgKldBmZi6ccbJr6wWDHyI5XlelPV02B0DgQ3D3D
+这里不管是不是正确的路径，都进入到这个函数内部了，是什么原因
+我们已经爬到了网站上面啦！！！
+正在查询，请稍后
+
+
+
+
+
+
+
+访问的页面不存在
+
+
+
+path    wwwroot/train_number/empty.html
+
+
+method : GET
+ url :/ 
+ path : wwwroot/train_number/empty.html
+ cgi : 1
+query_string:y=B
+    line : Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+
+line : Accept-Charset: iso-8859-1,*,utf-8
+
+line : Accept-Encoding: gzip
+
+line : Accept-Language: en-us,en
+
+line : Cache-Control: no-cache
+
+line : Connection: close
+
+line : Cookie: lang=zh
+
+line : Host: www.neilzhy.xyz
+
+line : User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_2 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) CriOS/30.0.1599.12 Mobile/11A501 Safari/8536.25 MicroMessenger/6.1.0
+
+line : UserAgent: Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_2 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) CriOS/30.0.1599.12 Mobile/11A501 Safari/8536.25 MicroMessenger/6.1.0
+
+line : 
+
+quit client ...
+链接成功了
+
+新的链接sock  port [101.226.225.59 : 43333]
+链接成功了
+
+新的链接sock  port [111.18.41.63 : 1174]
+链接成功了
+
+新的链接sock  port [111.18.41.63 : 1173]
+链接成功了
+
+新的链接sock  port [111.18.41.63 : 1175]
+line : GET / HTTP/1.1
+
+method : GET url :/
+这里不管是不是正确的路径，都进入到这个函数内部了，是什么原因
+method : GET
+ url :/ 
+ path : wwwroot/index.html
+ cgi : 0
+query_string:
+    line : Host: www.neilzhy.xyz
+
+line : Connection: keep-alive
+
+line : Upgrade-Insecure-Requests: 1
+
+line : User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+
+line : Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+
+line : Accept-Encoding: gzip, deflate
+
+line : Accept-Language: zh-CN,zh;q=0.9
+
+line : 
+
+quit client ...
+line : GET /favicon.ico HTTP/1.1
+
+method : GET url :/favicon.ico
+quit client ...
+line : GET /favicon.ico HTTP/1.1
+
+method : GET url :/favicon.ico
+quit client ...
+链接成功了
+
+新的链接sock  port [111.18.41.63 : 1180]
+line : GET /favicon.ico HTTP/1.1
+
+method : GET url :/favicon.ico
+quit client ...
+line : 
+quit client ...
+链接成功了
+
+新的链接sock  port [61.151.178.171 : 35476]
+line : GET /?nsukey=0Or6WzS2BzYM2BpDONbMZuX1rzDT7CCFC12hldmiBvfTWrHwbvmZcCX3fgVhYLyRec0IpC0PeJXX3h6a2bzHu2BiEWNRCW6cxEoKgLBe2FyT1EbMlYISt5AOFBRgJnnzEOr4bXYOJGC3rc0AXbB0gH1cStlDFTKLlnHhB32FIv4bxoA7hTpXREVVI2gxKpGxiwkIxlvTaPMOScLym1281FQEbWw3D3D HTTP/1.1
+
+method : GET url :/?nsukey=0Or6WzS2BzYM2BpDONbMZuX1rzDT7CCFC12hldmiBvfTWrHwbvmZcCX3fgVhYLyRec0IpC0PeJXX3h6a2bzHu2BiEWNRCW6cxEoKgLBe2FyT1EbMlYISt5AOFBRgJnnzEOr4bXYOJGC3rc0AXbB0gH1cStlDFTKLlnHhB32FIv4bxoA7hTpXREVVI2gxKpGxiwkIxlvTaPMOScLym1281FQEbWw3D3D
+这里不管是不是正确的路径，都进入到这个函数内部了，是什么原因
+我们已经爬到了网站上面啦！！！
+正在查询，请稍后
+
+
+
+
+
+
+
+访问的页面不存在
+
+
+
+path    wwwroot/train_number/empty.html
+
+
+method : GET
+ url :/ 
+ path : wwwroot/train_number/empty.html
+ cgi : 1
+query_string:y=0
+    line : Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+
+line : Accept-Charset: iso-8859-1,*,utf-8
+
+line : Accept-Encoding: gzip
+
+line : Accept-Language: en-us,en
+
+line : Cache-Control: no-cache
+
+line : Connection: close
+
+line : Cookie: lang=zh
+
+line : Host: www.neilzhy.xyz
+
+line : User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_2 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) CriOS/30.0.1599.12 Mobile/11A501 Safari/8536.25 MicroMessenger/6.1.0
+
+line : UserAgent: Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_2 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) CriOS/30.0.1599.12 Mobile/11A501 Safari/8536.25 MicroMessenger/6.1.0
+
+line : 
+
+quit client ...
+链接成功了
+
+新的链接sock  port [61.151.178.171 : 53801]
+链接成功了
+
+新的链接sock  port [101.226.225.84 : 40557]
+line : GET /?nsukey=4Dma7bi8A3xjk2XGGLF8ucmU9ZuAP4ppdMQ0DJKDUj8bmb4mn0C5TZZ8dxgr5JEYJT2IOGVprM5vKgxJ0iBKlpDO61x6b2FPlodWqPl62BUZbmm0FswDft9sDsAc19Amq9vUwfBwf9DpuCw7tpKVHHWOBSQslCggFiJ2BvA4IpGeYB1avjmvsXSv0sa3st5LBlBJvwtcnyORlMT9VpSHLjlQ3D3D HTTP/1.1
+
+method : GET url :/?nsukey=4Dma7bi8A3xjk2XGGLF8ucmU9ZuAP4ppdMQ0DJKDUj8bmb4mn0C5TZZ8dxgr5JEYJT2IOGVprM5vKgxJ0iBKlpDO61x6b2FPlodWqPl62BUZbmm0FswDft9sDsAc19Amq9vUwfBwf9DpuCw7tpKVHHWOBSQslCggFiJ2BvA4IpGeYB1avjmvsXSv0sa3st5LBlBJvwtcnyORlMT9VpSHLjlQ3D3D
+这里不管是不是正确的路径，都进入到这个函数内部了，是什么原因
+我们已经爬到了网站上面啦！！！
+正在查询，请稍后
+
+
+
+
+
+
+
+访问的页面不存在
+
+
+
+path    wwwroot/train_number/empty.html
+
+
+method : GET
+ url :/ 
+ path : wwwroot/train_number/empty.html
+ cgi : 1
+query_string:y=4
+    line : Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+
+line : Accept-Charset: iso-8859-1,*,utf-8
+
+line : Accept-Encoding: gzip
+
+line : Accept-Language: en-us,en
+
+line : Cache-Control: no-cache
+
+line : Connection: close
+
+line : Cookie: lang=zh
+
+line : Host: www.neilzhy.xyz
+
+line : User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_2 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) CriOS/30.0.1599.12 Mobile/11A501 Safari/8536.25 MicroMessenger/6.1.0
+
+line : UserAgent: Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_2 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) CriOS/30.0.1599.12 Mobile/11A501 Safari/8536.25 MicroMessenger/6.1.0
+
+line : 
+
+quit client ...
+链接成功了
+
+新的链接sock  port [101.226.225.84 : 53786]
+链接成功了
+
+新的链接sock  port [101.226.79.238 : 32907]
+line : GET / HTTP/1.1
+
+method : GET url :/
+这里不管是不是正确的路径，都进入到这个函数内部了，是什么原因
+method : GET
+ url :/ 
+ path : wwwroot/index.html
+ cgi : 0
+query_string:
+    line : User-Agent: Mozilla/5.0 (Linux; Android 4.4.4; HUAWEI ALE-CL00 Build/HuaweiALE-CL00; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/53.0.2785.49 Mobile MQQBrowser/6.2 TBS/043024 Safari/537.36 MicroMessenger/6.5.4.1000 NetType/4G Language/zh_CN
+
+line : Accept: */*
+
+line : Accept-Language: zh-CN,zh;q=0.8,en-US;q=0.6,en;q=0.4
+
+line : Host: www.neilzhy.xyz
+
+line : Connection: keep-alive
+
+line : 
+
+quit client ...
+链接成功了
+
+新的链接sock  port [117.185.117.60 : 62208]
+line : GET /?nsukey=H3JdSv%2BpduA3BIeCn8noZRC3PPQuI9dliIbn2mxETQIkXrTuqzW8nwA0nWr7%2BLMOVIcOxLO1xXScG%2FL4TBf1rtogLblkfK%2BMbVOf24ckQp9bb7qGAPQqpCyNC7UUugITuu95ZefsCxduazxivnqLNThc6nr3FURn5kTjd7MX%2BMrXAYUM7DM05uXj%2F8iKDNL97DwV2CGujneN0rS%2F0ex%2Beg%3D%3D HTTP/1.1
+
+method : GET url :/?nsukey=H3JdSv%2BpduA3BIeCn8noZRC3PPQuI9dliIbn2mxETQIkXrTuqzW8nwA0nWr7%2BLMOVIcOxLO1xXScG%2FL4TBf1rtogLblkfK%2BMbVOf24ckQp9bb7qGAPQqpCyNC7UUugITuu95ZefsCxduazxivnqLNThc6nr3FURn5kTjd7MX%2BMrXAYUM7DM05uXj%2F8iKDNL97DwV2CGujneN0rS%2F0ex%2Beg%3D%3D
+这里不管是不是正确的路径，都进入到这个函数内部了，是什么原因
+我们已经爬到了网站上面啦！！！
+正在查询，请稍后
+
+
+
+
+
+
+
+访问的页面不存在
+
+
+
+path    wwwroot/train_number/empty.html
+
+
+method : GET
+ url :/ 
+ path : wwwroot/train_number/empty.html
+ cgi : 1
+query_string:y=H
+    line : User-Agent: Mozilla/5.0 (Linux; Android 5.1.1; SM801 Build/LMY47V; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/53.0.2785.49 Mobile MQQBrowser/6.2 TBS/043024 Safari/537.36 MicroMessenger/6.5.4.1000 NetType/4G Language/zh_CN
+
+line : Accept: */*
+
+line : Accept-Language: zh-CN,zh;q=0.8,en-US;q=0.6,en;q=0.4
+
+line : Host: www.neilzhy.xyz
+
+line : Connection: keep-alive
+
+line : 
+
+quit client ...
+链接成功了
+
+新的链接sock  port [117.185.117.57 : 33742]
+line : GET /?nsukey=H3JdSv%2BpduA3BIeCn8noZRC3PPQuI9dliIbn2mxETQIkXrTuqzW8nwA0nWr7%2BLMOVIcOxLO1xXScG%2FL4TBf1rtogLblkfK%2BMbVOf24ckQp9bb7qGAPQqpCyNC7UUugITuu95ZefsCxduazxivnqLNThc6nr3FURn5kTjd7MX%2BMrXAYUM7DM05uXj%2F8iKDNL97DwV2CGujneN0rS%2F0ex%2Beg%3D%3D HTTP/1.1
+
+method : GET url :/?nsukey=H3JdSv%2BpduA3BIeCn8noZRC3PPQuI9dliIbn2mxETQIkXrTuqzW8nwA0nWr7%2BLMOVIcOxLO1xXScG%2FL4TBf1rtogLblkfK%2BMbVOf24ckQp9bb7qGAPQqpCyNC7UUugITuu95ZefsCxduazxivnqLNThc6nr3FURn5kTjd7MX%2BMrXAYUM7DM05uXj%2F8iKDNL97DwV2CGujneN0rS%2F0ex%2Beg%3D%3D
+这里不管是不是正确的路径，都进入到这个函数内部了，是什么原因
+我们已经爬到了网站上面啦！！！
+正在查询，请稍后
+
+
+
+
+
+
+
+访问的页面不存在
+
+
+
+path    wwwroot/train_number/empty.html
+
+
+method : GET
+ url :/ 
+ path : wwwroot/train_number/empty.html
+ cgi : 1
+query_string:y=H
+    line : User-Agent: Mozilla/5.0 (Linux; U; Android 6.0.1; zh-cn; OPPO R9s Build/MMB29M) AppleWebKit/537.36 (KHTML, like Gecko)Version/4.0 Chrome/37.0.0.0 MQQBrowser/7.2 Mobile Safari/537.36
+
+line : Accept: */*
+
+line : Accept-Language: zh-CN,zh;q=0.8,en-US;q=0.6,en;q=0.4
+
+line : Host: www.neilzhy.xyz
+
+line : Connection: keep-alive
+
+line : 
+
+quit client ...
+链接成功了
+
+新的链接sock  port [61.151.226.76 : 34496]
+line : GET /?nsukey=H3JdSv2BpduA3BIeCn8noZRC3PPQuI9dliIbn2mxETQIkXrTuqzW8nwA0nWr72BLMOVIcOxLO1xXScG2FL4TBf1rtogLblkfK2BMbVOf24ckQp9bb7qGAPQqpCyNC7UUugITuu95ZefsCxduazxivnqLNThc6nr3FURn5kTjd7MX2BMrXAYUM7DM05uXj2F8iKDNL97DwV2CGujneN0rS2F0ex2Beg3D3D HTTP/1.1
+
+method : GET url :/?nsukey=H3JdSv2BpduA3BIeCn8noZRC3PPQuI9dliIbn2mxETQIkXrTuqzW8nwA0nWr72BLMOVIcOxLO1xXScG2FL4TBf1rtogLblkfK2BMbVOf24ckQp9bb7qGAPQqpCyNC7UUugITuu95ZefsCxduazxivnqLNThc6nr3FURn5kTjd7MX2BMrXAYUM7DM05uXj2F8iKDNL97DwV2CGujneN0rS2F0ex2Beg3D3D
+这里不管是不是正确的路径，都进入到这个函数内部了，是什么原因
+我们已经爬到了网站上面啦！！！
+正在查询，请稍后
+
+
+
+
+
+
+
+访问的页面不存在
+
+
+
+path    wwwroot/train_number/empty.html
+
+
+method : GET
+ url :/ 
+ path : wwwroot/train_number/empty.html
+ cgi : 1
+query_string:y=H
+    line : User-Agent: Mozilla/5.0 (Linux; U; Android 4.4.4; zh-CN; Coolpad Y82-520 Build/KTU84P) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 UCBrowser/10.9.8.738 U3/0.8.0 Mobile Safari/534.30
+
+line : Accept: */*
+
+line : Accept-Language: zh-CN,zh;q=0.8,en-US;q=0.6,en;q=0.4
+
+line : Host: www.neilzhy.xyz
+
+line : Connection: keep-alive
+
+line : 
+
+quit client ...
+链接成功了
+
+新的链接sock  port [101.226.86.154 : 39663]
+line : GET /?nsukey=BOYR6aGrHc%2Fh90t1xaKQvr%2BX8Zfol0vaaNVj132yQbCx2THNZ6%2FOENWpX2EJT3U4UEhMExmUK0WgWToXRSOu0gjE9%2BD9PsgKWSp5Oqii%2BHsjWrz8HAWTPiLTKaIxiPrxGK9%2BpIcQyj4YKAmdLWIh7jvFLa9I09cztEFPDT2%2FWsrcrRmmYAGwgKldBmZi6ccbJr6wWDHyI5XlelPV0%2B0DgQ%3D%3D HTTP/1.1
+
+method : GET url :/?nsukey=BOYR6aGrHc%2Fh90t1xaKQvr%2BX8Zfol0vaaNVj132yQbCx2THNZ6%2FOENWpX2EJT3U4UEhMExmUK0WgWToXRSOu0gjE9%2BD9PsgKWSp5Oqii%2BHsjWrz8HAWTPiLTKaIxiPrxGK9%2BpIcQyj4YKAmdLWIh7jvFLa9I09cztEFPDT2%2FWsrcrRmmYAGwgKldBmZi6ccbJr6wWDHyI5XlelPV0%2B0DgQ%3D%3D
+这里不管是不是正确的路径，都进入到这个函数内部了，是什么原因
+我们已经爬到了网站上面啦！！！
+正在查询，请稍后
+
+
+
+
+
+
+
+访问的页面不存在
+
+
+
+path    wwwroot/train_number/empty.html
+
+
+method : GET
+ url :/ 
+ path : wwwroot/train_number/empty.html
+ cgi : 1
+query_string:y=B
+    line : User-Agent: Mozilla/5.0 (Linux; Android 5.1.1; SM801 Build/LMY47V; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/53.0.2785.49 Mobile MQQBrowser/6.2 TBS/043024 Safari/537.36 MicroMessenger/6.5.4.1000 NetType/4G Language/zh_CN
+
+line : Accept: */*
+
+line : Accept-Language: zh-CN,zh;q=0.8,en-US;q=0.6,en;q=0.4
+
+line : Host: www.neilzhy.xyz
+
+line : Connection: keep-alive
+
+line : 
+
+quit client ...
+链接成功了
+
+新的链接sock  port [61.151.226.85 : 62239]
+line : GET /?nsukey=0Or6WzS%2BzYM%2BpDONbMZuX1rzDT7CCFC12hldmiBvfTWrHwbvmZcCX3fgVhYLyRec0IpC0PeJXX3h6a2bzHu%2BiEWNRCW6cxEoKgLBe%2FyT1EbMlYISt5AOFBRgJnnzEOr4bXYOJGC3rc0AXbB0gH1cStlDFTKLlnHhB3%2FIv4bxoA7hTpXREVVI2gxKpGxiwkIxlvTaPMOScLym1281FQEbWw%3D%3D HTTP/1.1
+
+method : GET url :/?nsukey=0Or6WzS%2BzYM%2BpDONbMZuX1rzDT7CCFC12hldmiBvfTWrHwbvmZcCX3fgVhYLyRec0IpC0PeJXX3h6a2bzHu%2BiEWNRCW6cxEoKgLBe%2FyT1EbMlYISt5AOFBRgJnnzEOr4bXYOJGC3rc0AXbB0gH1cStlDFTKLlnHhB3%2FIv4bxoA7hTpXREVVI2gxKpGxiwkIxlvTaPMOScLym1281FQEbWw%3D%3D
+这里不管是不是正确的路径，都进入到这个函数内部了，是什么原因
+我们已经爬到了网站上面啦！！！
+正在查询，请稍后
+
+
+
+
+
+
+
+访问的页面不存在
+
+
+
+path    wwwroot/train_number/empty.html
+
+
+method : GET
+ url :/ 
+ path : wwwroot/train_number/empty.html
+ cgi : 1
+query_string:y=0
+    line : User-Agent: Mozilla/5.0 (Linux; U; Android 4.4.4; zh-CN; HUAWEI ALE-CL00 Build/HuaweiALE-CL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/40.0.2214.89 UCBrowser/11.3.0.907 Mobile Safari/537.36
+
+line : Accept: */*
+
+line : Accept-Language: zh-CN,zh;q=0.8,en-US;q=0.6,en;q=0.4
+
+line : Host: www.neilzhy.xyz
+
+line : Connection: keep-alive
+
+line : 
+
+quit client ...
+链接成功了
+
+新的链接sock  port [61.151.226.77 : 42546]
+line : GET /?nsukey=0Or6WzS%2BzYM%2BpDONbMZuX1rzDT7CCFC12hldmiBvfTWrHwbvmZcCX3fgVhYLyRec0IpC0PeJXX3h6a2bzHu%2BiEWNRCW6cxEoKgLBe%2FyT1EbMlYISt5AOFBRgJnnzEOr4bXYOJGC3rc0AXbB0gH1cStlDFTKLlnHhB3%2FIv4bxoA7hTpXREVVI2gxKpGxiwkIxlvTaPMOScLym1281FQEbWw%3D%3D HTTP/1.1
+
+method : GET url :/?nsukey=0Or6WzS%2BzYM%2BpDONbMZuX1rzDT7CCFC12hldmiBvfTWrHwbvmZcCX3fgVhYLyRec0IpC0PeJXX3h6a2bzHu%2BiEWNRCW6cxEoKgLBe%2FyT1EbMlYISt5AOFBRgJnnzEOr4bXYOJGC3rc0AXbB0gH1cStlDFTKLlnHhB3%2FIv4bxoA7hTpXREVVI2gxKpGxiwkIxlvTaPMOScLym1281FQEbWw%3D%3D
+这里不管是不是正确的路径，都进入到这个函数内部了，是什么原因
+我们已经爬到了网站上面啦！！！
+正在查询，请稍后
+
+
+
+
+
+
+
+访问的页面不存在
+
+
+
+path    wwwroot/train_number/empty.html
+
+
+method : GET
+ url :/ 
+ path : wwwroot/train_number/empty.html
+ cgi : 1
+query_string:y=0
+    line : User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 10_2_1 like Mac OS X) AppleWebKit/602.4.6 (KHTML, like Gecko) Mobile/14D27 MicroMessenger/6.5.5 NetType/WIFI Language/zh_CN
+
+line : Accept: */*
+
+line : Accept-Language: zh-CN,zh;q=0.8,en-US;q=0.6,en;q=0.4
+
+line : Host: www.neilzhy.xyz
+
+line : Connection: keep-alive
+
+line : 
+
+quit client ...
+链接成功了
+
+新的链接sock  port [111.18.41.63 : 1155]
+line : GET /haha.html?user=336 HTTP/1.1
+
+method : GET url :/haha.html?user=336
+这里不管是不是正确的路径，都进入到这个函数内部了，是什么原因
+
+
+
+
+
+
+文件存在path wwwroot/train_number/336.html       query_stri336.html
+
+
+
+method : GET
+ url :/haha.html 
+ path : wwwroot/train_number/336.html
+ cgi : 1
+query_string:336.html
+    line : Host: www.neilzhy.xyz
+
+line : Connection: keep-alive
+
+line : Upgrade-Insecure-Requests: 1
+
+line : User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+
+line : Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+
+line : Referer: http://www.neilzhy.xyz/
+
+line : Accept-Encoding: gzip, deflate
+
+line : Accept-Language: zh-CN,zh;q=0.9
+
+line : 
+
+quit client ...
+链接成功了
+
+新的链接sock  port [111.18.41.63 : 12106]
+line : GET /favicon.ico HTTP/1.1
+
+method : GET url :/favicon.ico
+quit client ...
+链接成功了
+
+新的链接sock  port [101.226.233.151 : 43229]
+line : GET /?nsukey=4Dma7bi8A3xjk2XGGLF8ucmU9ZuAP4ppdMQ0DJKDUj8bmb4mn0C5TZZ8dxgr5JEYJT2IOGVprM5vKgxJ0iBKlpDO61x6b%2FPlodWqPl62BUZbmm0FswDft9sDsAc19Amq9vUwfBwf9DpuCw7tpKVHHWOBSQslCggFiJ%2BvA4IpGeYB1avjmvsXSv0sa3st5LBlBJvwtcnyORlMT9VpSHLjlQ%3D%3D HTTP/1.1
+
+method : GET url :/?nsukey=4Dma7bi8A3xjk2XGGLF8ucmU9ZuAP4ppdMQ0DJKDUj8bmb4mn0C5TZZ8dxgr5JEYJT2IOGVprM5vKgxJ0iBKlpDO61x6b%2FPlodWqPl62BUZbmm0FswDft9sDsAc19Amq9vUwfBwf9DpuCw7tpKVHHWOBSQslCggFiJ%2BvA4IpGeYB1avjmvsXSv0sa3st5LBlBJvwtcnyORlMT9VpSHLjlQ%3D%3D
+这里不管是不是正确的路径，都进入到这个函数内部了，是什么原因
+我们已经爬到了网站上面啦！！！
+正在查询，请稍后
+
+
+
+
+
+
+
+访问的页面不存在
+
+
+
+path    wwwroot/train_number/empty.html
+
+
+method : GET
+ url :/ 
+ path : wwwroot/train_number/empty.html
+ cgi : 1
+query_string:y=4
+    line : User-Agent: Mozilla/5.0 (Linux; Android 5.1.1; SM801 Build/LMY47V) AppleWebKit/537.36 (KHTML, like Gecko)     		Chrome/46.0.2490.11 Mobile Safari/537.36
+
+line : Accept: */*
+
+line : Accept-Language: zh-CN,zh;q=0.8,en-US;q=0.6,en;q=0.4
+
+line : Host: www.neilzhy.xyz
+
+line : Connection: keep-alive
+
+line : 
+
+quit client ...
+链接成功了
+
+新的链接sock  port [61.151.178.166 : 56577]
+line : GET /?nsukey=4Dma7bi8A3xjk2XGGLF8ucmU9ZuAP4ppdMQ0DJKDUj8bmb4mn0C5TZZ8dxgr5JEYJT2IOGVprM5vKgxJ0iBKlpDO61x6b%2FPlodWqPl62BUZbmm0FswDft9sDsAc19Amq9vUwfBwf9DpuCw7tpKVHHWOBSQslCggFiJ%2BvA4IpGeYB1avjmvsXSv0sa3st5LBlBJvwtcnyORlMT9VpSHLjlQ%3D%3D HTTP/1.1
+
+method : GET url :/?nsukey=4Dma7bi8A3xjk2XGGLF8ucmU9ZuAP4ppdMQ0DJKDUj8bmb4mn0C5TZZ8dxgr5JEYJT2IOGVprM5vKgxJ0iBKlpDO61x6b%2FPlodWqPl62BUZbmm0FswDft9sDsAc19Amq9vUwfBwf9DpuCw7tpKVHHWOBSQslCggFiJ%2BvA4IpGeYB1avjmvsXSv0sa3st5LBlBJvwtcnyORlMT9VpSHLjlQ%3D%3D
+这里不管是不是正确的路径，都进入到这个函数内部了，是什么原因
+我们已经爬到了网站上面啦！！！
+正在查询，请稍后
+
+
+
+
+
+
+
+访问的页面不存在
+
+
+
+path    wwwroot/train_number/empty.html
+
+
+method : GET
+ url :/ 
+ path : wwwroot/train_number/empty.html
+ cgi : 1
+query_string:y=4
+    line : User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36 MicroMessenger/6.5.2.501 NetType/WIFI WindowsWechat QBCore/3.43.27.400 QQBrowser/9.0.2524.400
+
+line : Accept: */*
+
+line : Accept-Language: zh-CN,zh;q=0.8,en-US;q=0.6,en;q=0.4
+
+line : Host: www.neilzhy.xyz
+
+line : Connection: keep-alive
+
+line : 
+
+quit client ...
+链接成功了
+
+新的链接sock  port [187.101.204.27 : 38950]
+链接成功了
+
+新的链接sock  port [111.18.41.63 : 1153]
+line : GET /haha.html?user=336 HTTP/1.1
+
+method : GET url :/haha.html?user=336
+这里不管是不是正确的路径，都进入到这个函数内部了，是什么原因
+
+
+
+
+
+
+文件存在path wwwroot/train_number/336.html       query_stri336.html
+
+
+
+method : GET
+ url :/haha.html 
+ path : wwwroot/train_number/336.html
+ cgi : 1
+query_string:336.html
+    line : Host: www.neilzhy.xyz
+
+line : Connection: keep-alive
+
+line : Cache-Control: max-age=0
+
+line : Upgrade-Insecure-Requests: 1
+
+line : User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+
+line : Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+
+line : Accept-Encoding: gzip, deflate
+
+line : Accept-Language: zh-CN,zh;q=0.9
+
+line : 
+
+quit client ...
+链接成功了
+
+新的链接sock  port [111.18.41.63 : 1210]
+line : GET /favicon.ico HTTP/1.1
+
+method : GET url :/favicon.ico
+quit client ...
+链接成功了
+
+新的链接sock  port [111.18.41.63 : 1155]
+line : GET /favicon.ico HTTP/1.1
+
+method : GET url :/favicon.ico
+quit client ...
+链接成功了
+
+新的链接sock  port [111.18.41.63 : 1156]
+链接成功了
+
+新的链接sock  port [111.18.41.63 : 1157]
+line : GET /favicon.ico HTTP/1.1
+
+method : GET url :/favicon.ico
+quit client ...
+line : GET /favicon.ico HTTP/1.1
+
+method : GET url :/favicon.ico
+quit client ...
+链接成功了
+
+新的链接sock  port [111.18.41.63 : 1159]
+line : GET /favicon.ico HTTP/1.1
+
+method : GET url :/favicon.ico
+quit client ...
+链接成功了
+
+新的链接sock  port [111.18.41.63 : 12121]
+line : GET /haha.html?user=336 HTTP/1.1
+
+method : GET url :/haha.html?user=336
+这里不管是不是正确的路径，都进入到这个函数内部了，是什么原因
+
+
+
+
+
+
+文件存在path wwwroot/train_number/336.html       query_stri336.html
+
+
+
+method : GET
+ url :/haha.html 
+ path : wwwroot/train_number/336.html
+ cgi : 1
+query_string:336.html
+    line : Host: www.neilzhy.xyz
+
+line : Connection: keep-alive
+
+line : Upgrade-Insecure-Requests: 1
+
+line : User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+
+line : Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+
+line : Referer: http://www.neilzhy.xyz/
+
+line : Accept-Encoding: gzip, deflate
+
+line : Accept-Language: zh-CN,zh;q=0.9
+
+line : 
+
+quit client ...
+链接成功了
+
+新的链接sock  port [111.18.41.63 : 12122]
+line : GET /favicon.ico HTTP/1.1
+
+method : GET url :/favicon.ico
+quit client ...
+链接成功了
+
+新的链接sock  port [111.18.41.63 : 13408]
+line : GET / HTTP/1.1
+
+method : GET url :/
+这里不管是不是正确的路径，都进入到这个函数内部了，是什么原因
+method : GET
+ url :/ 
+ path : wwwroot/index.html
+ cgi : 0
+query_string:
+    line : Host: www.neilzhy.xyz
+
+line : Connection: keep-alive
+
+line : Upgrade-Insecure-Requests: 1
+
+line : User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+
+line : Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+
+line : Accept-Encoding: gzip, deflate
+
+line : Accept-Language: zh-CN,zh;q=0.9
+
+line : 
+
+quit client ...
+链接成功了
+
+新的链接sock  port [111.18.41.63 : 13411]
+链接成功了
+
+新的链接sock  port [111.18.41.63 : 13409]
+line : GET /favicon.ico HTTP/1.1
+
+method : GET url :/favicon.ico
+quit client ...
+line : GET /favicon.ico HTTP/1.1
+
+method : GET url :/favicon.ico
+quit client ...
+链接成功了
+
+新的链接sock  port [111.18.41.63 : 13412]
+line : GET /favicon.ico HTTP/1.1
+
+method : GET url :/favicon.ico
+quit client ...
+链接成功了
+
+新的链接sock  port [123.58.9.243 : 17571]
+line : GET / HTTP/1.1
+
+method : GET url :/
+这里不管是不是正确的路径，都进入到这个函数内部了，是什么原因
+method : GET
+ url :/ 
+ path : wwwroot/index.html
+ cgi : 0
+query_string:
+    line : Host: www.lizeyn.club
+
+line : Connection: keep-alive
+
+line : Accept-Encoding: gzip, deflate
+
+line : Accept: */*
+
+line : User-Agent: python-requests/2.13.0
+
+line : 
+
+quit client ...
+链接成功了
+
+新的链接sock  port [138.219.108.19 : 39168]
+line : GET / HTTP/1.1
+
+method : GET url :/
+这里不管是不是正确的路径，都进入到这个函数内部了，是什么原因
+method : GET
+ url :/ 
+ path : wwwroot/index.html
+ cgi : 0
+query_string:
+    line : Host: 111.230.233.159:80
+
+line : User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36
+
+line : Content-Length: 0
+
+line : 
+
+quit client ...
+链接成功了
+
+新的链接sock  port [40.77.167.64 : 11432]
+line : GET / HTTP/1.1
+
+method : GET url :/
+这里不管是不是正确的路径，都进入到这个函数内部了，是什么原因
+method : GET
+ url :/ 
+ path : wwwroot/index.html
+ cgi : 0
+query_string:
+    line : Cache-Control: no-cache
+
+line : Connection: Keep-Alive
+
+line : Pragma: no-cache
+
+line : Accept: */*
+
+line : Accept-Encoding: gzip, deflate
+
+line : From: bingbot(at)microsoft.com
+
+line : Host: www.lizeyn.club
+
+line : User-Agent: Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)
+
+line : 
+
+quit client ...
+line : 
+quit client ...
+line : 
+quit client ...
+line : 
+quit client ...
+line : 
+quit client ...
+链接成功了
+
+新的链接sock  port [5.154.55.187 : 59595]
+line : GET / HTTP/1.1
+
+method : GET url :/
+这里不管是不是正确的路径，都进入到这个函数内部了，是什么原因
+method : GET
+ url :/ 
+ path : wwwroot/index.html
+ cgi : 0
+query_string:
+    line : Host: 111.230.233.159:80
+
+line : User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36
+
+line : Content-Length: 0
+
+line : 
+
+quit client ...
+链接成功了
+
+新的链接sock  port [111.18.41.63 : 1165]
+链接成功了
+
+新的链接sock  port [111.18.41.63 : 1166]
+line : GET / HTTP/1.1
+
+method : GET url :/
+这里不管是不是正确的路径，都进入到这个函数内部了，是什么原因
+method : GET
+ url :/ 
+ path : wwwroot/index.html
+ cgi : 0
+query_string:
+    line : Host: www.neilzhy.xyz
+
+line : Connection: keep-alive
+
+line : Cache-Control: max-age=0
+
+line : Upgrade-Insecure-Requests: 1
+
+line : User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+
+line : Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+
+line : Accept-Encoding: gzip, deflate
+
+line : Accept-Language: zh-CN,zh;q=0.9
+
+line : 
+
+quit client ...
+line : GET /favicon.ico HTTP/1.1
+
+method : GET url :/favicon.ico
+quit client ...
+链接成功了
+
+新的链接sock  port [111.18.41.63 : 1167]
+line : GET /favicon.ico HTTP/1.1
+
+method : GET url :/favicon.ico
+quit client ...
+链接成功了
+
+新的链接sock  port [111.18.41.63 : 1169]
+line : GET /haha.html?user=336 HTTP/1.1
+
+method : GET url :/haha.html?user=336
+这里不管是不是正确的路径，都进入到这个函数内部了，是什么原因
+
+
+
+
+
+
+文件存在path wwwroot/train_number/336.html       query_stri336.html
+
+
+
+method : GET
+ url :/haha.html 
+ path : wwwroot/train_number/336.html
+ cgi : 1
+query_string:336.html
+    line : Host: www.neilzhy.xyz
+
+line : Connection: keep-alive
+
+line : Upgrade-Insecure-Requests: 1
+
+line : User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+
+line : Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+
+line : Referer: http://www.neilzhy.xyz/
+
+line : Accept-Encoding: gzip, deflate
+
+line : Accept-Language: zh-CN,zh;q=0.9
+
+line : 
+
+quit client ...
+链接成功了
+
+新的链接sock  port [111.18.41.63 : 1170]
+line : GET /favicon.ico HTTP/1.1
+
+method : GET url :/favicon.ico
+quit client ...
+链接成功了
+
+新的链接sock  port [111.18.41.63 : 12126]
+line : GET / HTTP/1.1
+
+method : GET url :/
+这里不管是不是正确的路径，都进入到这个函数内部了，是什么原因
+method : GET
+ url :/ 
+ path : wwwroot/index.html
+ cgi : 0
+query_string:
+    line : Host: www.neilzhy.xyz
+
+line : Connection: keep-alive
+
+line : Upgrade-Insecure-Requests: 1
+
+line : User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+
+line : Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+
+line : Accept-Encoding: gzip, deflate
+
+line : Accept-Language: zh-CN,zh;q=0.9
+
+line : 
+
+quit client ...
+链接成功了
+
+新的链接sock  port [111.18.41.63 : 12124]
+链接成功了
+
+新的链接sock  port [111.18.41.63 : 12125]
+line : GET /favicon.ico HTTP/1.1
+
+method : GET url :/favicon.ico
+quit client ...
+链接成功了
+
+新的链接sock  port [111.18.41.63 : 12134]
+链接成功了
+
+新的链接sock  port [111.18.41.63 : 12135]
+line : GET /favicon.ico HTTP/1.1
+
+method : GET url :/favicon.ico
+quit client ...
+line : GET /favicon.ico HTTP/1.1
+
+method : GET url :/favicon.ico
+quit client ...
+line : GET /favicon.ico HTTP/1.1
+
+method : GET url :/favicon.ico
+quit client ...
+链接成功了
+
+新的链接sock  port [111.18.41.63 : 12136]
+line : GET /favicon.ico HTTP/1.1
+
+method : GET url :/favicon.ico
+quit client ...
+链接成功了
+
+新的链接sock  port [111.18.41.63 : 12149]
+line : GET /haha.html?user=336 HTTP/1.1
+
+method : GET url :/haha.html?user=336
+这里不管是不是正确的路径，都进入到这个函数内部了，是什么原因
+
+
+
+
+
+
+文件存在path wwwroot/train_number/336.html       query_stri336.html
+
+
+
+method : GET
+ url :/haha.html 
+ path : wwwroot/train_number/336.html
+ cgi : 1
+query_string:336.html
+    line : Host: www.neilzhy.xyz
+
+line : Connection: keep-alive
+
+line : Upgrade-Insecure-Requests: 1
+
+line : User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+
+line : Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+
+line : Referer: http://www.neilzhy.xyz/
+
+line : Accept-Encoding: gzip, deflate
+
+line : Accept-Language: zh-CN,zh;q=0.9
+
+line : 
+
+quit client ...
+链接成功了
+
+新的链接sock  port [111.18.41.63 : 12150]
+line : GET /favicon.ico HTTP/1.1
+
+method : GET url :/favicon.ico
+quit client ...
+链接成功了
+
+新的链接sock  port [123.151.42.61 : 47094]
+line : 
+quit client ...
+链接成功了
+
+新的链接sock  port [104.192.74.28 : 34504]
+line : GET /robots.txt HTTP/1.1
+
+method : GET url :/robots.txt
+quit client ...
+链接成功了
+
+新的链接sock  port [104.192.74.28 : 34546]
+line : GET /robots.txt HTTP/1.1
+
+method : GET url :/robots.txt
+quit client ...
+链接成功了
+
+新的链接sock  port [104.192.74.28 : 34566]
+line : GET / HTTP/1.1
+
+method : GET url :/
+这里不管是不是正确的路径，都进入到这个函数内部了，是什么原因
+method : GET
+ url :/ 
+ path : wwwroot/index.html
+ cgi : 0
+query_string:
+    line : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36
+
+line : Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+
+line : Accept-Language: en-us
+
+line : Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7)
+
+line : Cache-Control: no-cache
+
+line : Accept-Encoding: gzip,deflate
+
+line : Connection: close
+
+line : Referer: http://www.lizeyn.club
+
+line : Host: www.lizeyn.club
+
+line : 
+
+quit client ...
+链接成功了
+
+新的链接sock  port [104.192.74.28 : 34610]
+line : GET / HTTP/1.1
+
+method : GET url :/
+这里不管是不是正确的路径，都进入到这个函数内部了，是什么原因
+method : GET
+ url :/ 
+ path : wwwroot/index.html
+ cgi : 0
+query_string:
+    line : Accept-Encoding: gzip
+
+line : User-Agent: Mozilla
+
+line : Host: www.lizeyn.club
+
+line : Accept: text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2
+
+line : Connection: keep-alive
+
+line : 
+
+quit client ...
+链接成功了
+
+新的链接sock  port [106.75.92.187 : 50495]
+line : GET / HTTP/1.1
+
+method : GET url :/
+这里不管是不是正确的路径，都进入到这个函数内部了，是什么原因
+method : GET
+ url :/ 
+ path : wwwroot/index.html
+ cgi : 0
+query_string:
+    line : Host: 111.230.233.159:80
+
+line : User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:52.0) Gecko/20100101 Firefox/52.0
+
+line : Accept-Encoding: gzip, deflate, br
+
+line : Accept-Language: zh-CN,zh;q=0.8,en-US;q=0.5,en;q=0.3
+
+line : Accept-Charset: GBK,utf-8;q=0.7,*;q=0.3
+
+line : Accept: application/json, text/plain, */*
+
+line : 
+
+quit client ...
+链接成功了
+
+新的链接sock  port [183.240.165.233 : 53012]
+line : HEAD / HTTP/1.1
+
+quit client ...
+链接成功了
+
+新的链接sock  port [172.81.205.230 : 38756]
+line : 
+quit client ...
+链接成功了
+
+新的链接sock  port [172.81.205.230 : 38786]
+line : PROPFIND / HTTP/1.1
+
+quit client ...
+链接成功了
+
+新的链接sock  port [172.81.205.230 : 38829]
+line : POST /wls-wsat/CoordinatorPortType HTTP/1.1
+
+method : POST url :/wls-wsat/CoordinatorPortType
+quit client ...
+链接成功了
+
+新的链接sock  port [172.81.205.230 : 38863]
+line : GET /index.php HTTP/1.1
+
+method : GET url :/index.php
+quit client ...
+链接成功了
+
+新的链接sock  port [172.81.205.230 : 39005]
+line : GET /phpmyadmin/index.php HTTP/1.1
+
+method : GET url :/phpmyadmin/index.php
+quit client ...
+链接成功了
+
+新的链接sock  port [172.81.205.230 : 39251]
+line : GET /phpMyAdmin/index.php HTTP/1.1
+
+method : GET url :/phpMyAdmin/index.php
+quit client ...
+链接成功了
+
+新的链接sock  port [172.81.205.230 : 39506]
+line : GET /pmd/index.php HTTP/1.1
+
+method : GET url :/pmd/index.php
+quit client ...
+链接成功了
+
+新的链接sock  port [172.81.205.230 : 39668]
+line : GET /pma/index.php HTTP/1.1
+
+method : GET url :/pma/index.php
+quit client ...
+链接成功了
+
+新的链接sock  port [172.81.205.230 : 39802]
+line : GET /PMA/index.php HTTP/1.1
+
+method : GET url :/PMA/index.php
+quit client ...
+链接成功了
+
+新的链接sock  port [172.81.205.230 : 39822]
+line : GET /PMA2/index.php HTTP/1.1
+
+method : GET url :/PMA2/index.php
+quit client ...
+链接成功了
+
+新的链接sock  port [172.81.205.230 : 39920]
+line : GET /pmamy2/index.php HTTP/1.1
+
+method : GET url :/pmamy2/index.php
+quit client ...
+链接成功了
+
+新的链接sock  port [172.81.205.230 : 40151]
+line : GET /mysql/index.php HTTP/1.1
+
+method : GET url :/mysql/index.php
+quit client ...
+链接成功了
+
+新的链接sock  port [172.81.205.230 : 40304]
+line : GET /admin/index.php HTTP/1.1
+
+method : GET url :/admin/index.php
+quit client ...
+链接成功了
+
+新的链接sock  port [172.81.205.230 : 40547]
+line : GET /dbadmin/index.php HTTP/1.1
+
+method : GET url :/dbadmin/index.php
+quit client ...
+链接成功了
+
+新的链接sock  port [172.81.205.230 : 40807]
+line : GET /web/phpMyAdmin/index.php HTTP/1.1
+
+method : GET url :/web/phpMyAdmin/index.php
+quit client ...
+链接成功了
+
+新的链接sock  port [172.81.205.230 : 41025]
+line : GET /admin/pma/index.php HTTP/1.1
+
+method : GET url :/admin/pma/index.php
+quit client ...
+链接成功了
+
+新的链接sock  port [172.81.205.230 : 41067]
+line : GET /admin/mysql/index.php HTTP/1.1
+
+method : GET url :/admin/mysql/index.php
+quit client ...
+链接成功了
+
+新的链接sock  port [172.81.205.230 : 41453]
+line : GET /admin/mysql2/index.php HTTP/1.1
+
+method : GET url :/admin/mysql2/index.php
+quit client ...
+链接成功了
+
+新的链接sock  port [172.81.205.230 : 41848]
+line : GET /admin/phpmyadmin/index.php HTTP/1.1
+
+method : GET url :/admin/phpmyadmin/index.php
+quit client ...
+链接成功了
+
+新的链接sock  port [172.81.205.230 : 42037]
+line : GET /admin/phpMyAdmin/index.php HTTP/1.1
+
+method : GET url :/admin/phpMyAdmin/index.php
+quit client ...
+链接成功了
+
+新的链接sock  port [172.81.205.230 : 42220]
+line : GET /admin/phpmyadmin2/index.php HTTP/1.1
+
+method : GET url :/admin/phpmyadmin2/index.php
+quit client ...
+链接成功了
+
+新的链接sock  port [172.81.205.230 : 42425]
+line : GET /mysqladmin/index.php HTTP/1.1
+
+method : GET url :/mysqladmin/index.php
+quit client ...
+链接成功了
+
+新的链接sock  port [172.81.205.230 : 42676]
+line : GET /mysql-admin/index.php HTTP/1.1
+
+method : GET url :/mysql-admin/index.php
+quit client ...
+链接成功了
+
+新的链接sock  port [172.81.205.230 : 43102]
+line : GET /phpmyadmin0/index.php HTTP/1.1
+
+method : GET url :/phpmyadmin0/index.php
+quit client ...
+链接成功了
+
+新的链接sock  port [172.81.205.230 : 43440]
+line : GET /phpmyadmin1/index.php HTTP/1.1
+
+method : GET url :/phpmyadmin1/index.php
+quit client ...
+链接成功了
+
+新的链接sock  port [172.81.205.230 : 43563]
+line : GET /phpmyadmin2/index.php HTTP/1.1
+
+method : GET url :/phpmyadmin2/index.php
+quit client ...
+链接成功了
+
+新的链接sock  port [172.81.205.230 : 43844]
+line : GET /myadmin/index.php HTTP/1.1
+
+method : GET url :/myadmin/index.php
+quit client ...
+链接成功了
+
+新的链接sock  port [172.81.205.230 : 44083]
+line : GET /myadmin2/index.php HTTP/1.1
+
+method : GET url :/myadmin2/index.php
+quit client ...
+链接成功了
+
+新的链接sock  port [172.81.205.230 : 44252]
+line : GET /xampp/phpmyadmin/index.php HTTP/1.1
+
+method : GET url :/xampp/phpmyadmin/index.php
+quit client ...
+链接成功了
+
+新的链接sock  port [172.81.205.230 : 44587]
+line : GET /phpMyadmin_bak/index.php HTTP/1.1
+
+method : GET url :/phpMyadmin_bak/index.php
+quit client ...
+链接成功了
+
+新的链接sock  port [172.81.205.230 : 44709]
+line : GET /www/phpMyAdmin/index.php HTTP/1.1
+
+method : GET url :/www/phpMyAdmin/index.php
+quit client ...
+链接成功了
+
+新的链接sock  port [172.81.205.230 : 44860]
+line : GET /tools/phpMyAdmin/index.php HTTP/1.1
+
+method : GET url :/tools/phpMyAdmin/index.php
+quit client ...
+链接成功了
+
+新的链接sock  port [172.81.205.230 : 45238]
+line : GET /phpmyadmin-old/index.php HTTP/1.1
+
+method : GET url :/phpmyadmin-old/index.php
+quit client ...
+链接成功了
+
+新的链接sock  port [172.81.205.230 : 45389]
+line : GET /phpMyAdminold/index.php HTTP/1.1
+
+method : GET url :/phpMyAdminold/index.php
+quit client ...
+链接成功了
+
+新的链接sock  port [172.81.205.230 : 45549]
+line : GET /pma-old/index.php HTTP/1.1
+
+method : GET url :/pma-old/index.php
+quit client ...
+链接成功了
+
+新的链接sock  port [172.81.205.230 : 45803]
+line : GET /typo3/phpmyadmin/index.php HTTP/1.1
+
+method : GET url :/typo3/phpmyadmin/index.php
+quit client ...
+链接成功了
+
+新的链接sock  port [172.81.205.230 : 46074]
+line : GET /phpma/index.php HTTP/1.1
+
+method : GET url :/phpma/index.php
+quit client ...
+链接成功了
+
+新的链接sock  port [172.81.205.230 : 46218]
+line : GET /phpmyadmin/phpmyadmin/index.php HTTP/1.1
+
+method : GET url :/phpmyadmin/phpmyadmin/index.php
+quit client ...
+链接成功了
+
+新的链接sock  port [172.81.205.230 : 46340]
+line : GET /phpMyAdmin/phpMyAdmin/index.php HTTP/1.1
+
+method : GET url :/phpMyAdmin/phpMyAdmin/index.php
+quit client ...
+链接成功了
+
+新的链接sock  port [177.137.60.49 : 47751]
+line : GET / HTTP/1.1
+
+method : GET url :/
+这里不管是不是正确的路径，都进入到这个函数内部了，是什么原因
+method : GET
+ url :/ 
+ path : wwwroot/index.html
+ cgi : 0
+query_string:
+    line : Host: 111.230.233.159:80
+
+line : User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36
+
+line : Content-Length: 0
+
+line : 
+
+quit client ...
+链接成功了
+
+新的链接sock  port [87.252.171.70 : 34394]
+line : GET / HTTP/1.1
+
+method : GET url :/
+这里不管是不是正确的路径，都进入到这个函数内部了，是什么原因
+method : GET
+ url :/ 
+ path : wwwroot/index.html
+ cgi : 0
+query_string:
+    line : Host: 111.230.233.159:80
+
+line : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/601.7.7 (KHTML, like Gecko) Version/9.1.2 Safari/601.7.7
+
+line : Content-Length: 0
+
+line : 
+
+quit client ...
+链接成功了
+
+新的链接sock  port [83.2.229.101 : 57298]
+line : GET / HTTP/1.1
+
+method : GET url :/
+这里不管是不是正确的路径，都进入到这个函数内部了，是什么原因
+method : GET
+ url :/ 
+ path : wwwroot/index.html
+ cgi : 0
+query_string:
+    line : Host: 111.230.233.159:80
+
+line : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/601.7.7 (KHTML, like Gecko) Version/9.1.2 Safari/601.7.7
+
+line : Content-Length: 0
+
+line : 
+
+quit client ...
+链接成功了
+
+新的链接sock  port [89.132.91.202 : 44365]
+line : GET / HTTP/1.1
+
+method : GET url :/
+这里不管是不是正确的路径，都进入到这个函数内部了，是什么原因
+method : GET
+ url :/ 
+ path : wwwroot/index.html
+ cgi : 0
+query_string:
+    line : Host: 111.230.233.159:80
+
+line : User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36
+
+line : Content-Length: 0
+
+line : 
+
+quit client ...
+链接成功了
+
+新的链接sock  port [41.77.205.185 : 33252]
+line : GET / HTTP/1.1
+
+method : GET url :/
+这里不管是不是正确的路径，都进入到这个函数内部了，是什么原因
+method : GET
+ url :/ 
+ path : wwwroot/index.html
+ cgi : 0
+query_string:
+    line : Host: 111.230.233.159:80
+
+line : User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36
+
+line : Content-Length: 0
+
+line : 
+
+quit client ...
+链接成功了
+
+新的链接sock  port [158.69.117.141 : 51024]
+line : GET / HTTP/1.1
+
+method : GET url :/
+这里不管是不是正确的路径，都进入到这个函数内部了，是什么原因
+method : GET
+ url :/ 
+ path : wwwroot/index.html
+ cgi : 0
+query_string:
+    line : User-Agent: Mozilla/5.0 (compatible; Dataprovider.com;)
+
+line : Host: www.neilzhy.xyz
+
+line : Connection: Close
+
+line : 
+
+quit client ...
+链接成功了
+
+新的链接sock  port [158.69.117.141 : 51094]
+line : GET /robots.txt HTTP/1.1
+
+method : GET url :/robots.txt
+quit client ...
+链接成功了
+
+新的链接sock  port [158.69.117.141 : 51161]
+line : GET /robots.txt HTTP/1.1
+
+method : GET url :/robots.txt
+quit client ...
+链接成功了
+
+新的链接sock  port [158.69.117.141 : 51208]
+line : GET /sitemap.xml HTTP/1.1
+
+method : GET url :/sitemap.xml
+quit client ...
+链接成功了
+
+新的链接sock  port [158.69.117.141 : 51337]
+line : GET /sitemap.xml HTTP/1.1
+
+method : GET url :/sitemap.xml
+quit client ...
+链接成功了
+
+新的链接sock  port [158.69.117.141 : 51391]
+line : GET / HTTP/1.1
+
+method : GET url :/
+这里不管是不是正确的路径，都进入到这个函数内部了，是什么原因
+method : GET
+ url :/ 
+ path : wwwroot/index.html
+ cgi : 0
+query_string:
+    line : User-Agent: Mozilla/5.0 (compatible; Dataprovider.com;)
+
+line : Host: www.neilzhy.xyz
+
+line : Connection: Close
+
+line : 
+
+quit client ...
+链接成功了
+
+新的链接sock  port [158.69.117.141 : 51566]
+line : GET /ads.txt HTTP/1.1
+
+method : GET url :/ads.txt
+quit client ...
+链接成功了
+
+新的链接sock  port [158.69.117.141 : 51619]
+line : GET /ads.txt HTTP/1.1
+
+method : GET url :/ads.txt
+quit client ...
+链接成功了
+
+新的链接sock  port [158.69.117.141 : 51683]
+line : GET / HTTP/1.1
+
+method : GET url :/
+这里不管是不是正确的路径，都进入到这个函数内部了，是什么原因
+method : GET
+ url :/ 
+ path : wwwroot/index.html
+ cgi : 0
+query_string:
+    line : User-Agent: Mozilla/5.0 (Linux; Android 5.1.1; SM-G925F Build/LMY47X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.94 Mobile Safari/537.36
+
+line : Host: www.neilzhy.xyz
+
+line : Connection: Close
+
+line : 
+
+quit client ...
+链接成功了
+
+新的链接sock  port [179.113.111.100 : 47082]
+line : GET / HTTP/1.1
+
+method : GET url :/
+这里不管是不是正确的路径，都进入到这个函数内部了，是什么原因
+method : GET
+ url :/ 
+ path : wwwroot/index.html
+ cgi : 0
+query_string:
+    line : Host: 111.230.233.159:80
+
+line : User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36
+
+line : Content-Length: 0
+
+line : 
+
+quit client ...
+链接成功了
+
+新的链接sock  port [177.105.231.219 : 55984]
+line : GET / HTTP/1.1
+
+method : GET url :/
+这里不管是不是正确的路径，都进入到这个函数内部了，是什么原因
+method : GET
+ url :/ 
+ path : wwwroot/index.html
+ cgi : 0
+query_string:
+    line : Host: 111.230.233.159:80
+
+line : User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36
+
+line : Content-Length: 0
+
+line : 
+
+quit client ...
+链接成功了
+
+新的链接sock  port [165.227.153.7 : 44428]
+line : GET / HTTP/1.1
+
+method : GET url :/
+这里不管是不是正确的路径，都进入到这个函数内部了，是什么原因
+method : GET
+ url :/ 
+ path : wwwroot/index.html
+ cgi : 0
+query_string:
+    line : Host: 111.230.233.159
+
+line : User-Agent: Mozilla/5.0
+
+line : Accept: */*
+
+line : Accept-Encoding: gzip
+
+line : 
+
+quit client ...
+链接成功了
+
+新的链接sock  port [190.130.48.169 : 46983]
+line : GET / HTTP/1.1
+
+method : GET url :/
+这里不管是不是正确的路径，都进入到这个函数内部了，是什么原因
+method : GET
+ url :/ 
+ path : wwwroot/index.html
+ cgi : 0
+query_string:
+    line : Host: 111.230.233.159:80
+
+line : User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36
+
+line : Content-Length: 0
+
+line : 
+
+quit client ...
+链接成功了
+
+新的链接sock  port [104.192.74.31 : 59140]
+line : GET /robots.txt HTTP/1.1
+
+method : GET url :/robots.txt
+quit client ...
+链接成功了
+
+新的链接sock  port [104.192.74.31 : 59176]
+line : GET /robots.txt HTTP/1.1
+
+method : GET url :/robots.txt
+quit client ...
+链接成功了
+
+新的链接sock  port [104.192.74.31 : 59254]
+line : GET / HTTP/1.1
+
+method : GET url :/
+这里不管是不是正确的路径，都进入到这个函数内部了，是什么原因
+method : GET
+ url :/ 
+ path : wwwroot/index.html
+ cgi : 0
+query_string:
+    line : User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36
+
+line : Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+
+line : Accept-Language: en-us
+
+line : Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7)
+
+line : Cache-Control: no-cache
+
+line : Accept-Encoding: gzip,deflate
+
+line : Connection: close
+
+line : Referer: http://www.neilzhy.xyz
+
+line : Host: www.neilzhy.xyz
+
+line : 
+
+quit client ...
+链接成功了
+
+新的链接sock  port [104.192.74.31 : 59306]
+line : GET / HTTP/1.1
+
+method : GET url :/
+这里不管是不是正确的路径，都进入到这个函数内部了，是什么原因
+method : GET
+ url :/ 
+ path : wwwroot/index.html
+ cgi : 0
+query_string:
+    line : Accept-Encoding: gzip
+
+line : User-Agent: Mozilla
+
+line : Host: www.neilzhy.xyz
+
+line : Accept: text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2
+
+line : Connection: keep-alive
+
+line : 
+
+quit client ...
+链接成功了
+
+新的链接sock  port [177.11.85.46 : 36114]
+line : GET / HTTP/1.1
+
+method : GET url :/
+这里不管是不是正确的路径，都进入到这个函数内部了，是什么原因
+method : GET
+ url :/ 
+ path : wwwroot/index.html
+ cgi : 0
+query_string:
+    line : Host: 111.230.233.159:80
+
+line : User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36
+
+line : Content-Length: 0
+
+line : 
+
+quit client ...
+链接成功了
+
+新的链接sock  port [123.207.174.234 : 52933]
+line : 
+quit client ...
+链接成功了
+
+新的链接sock  port [123.207.174.234 : 52960]
+line : PROPFIND / HTTP/1.1
+
+quit client ...
+链接成功了
+
+新的链接sock  port [123.207.174.234 : 53046]
+line : POST /wls-wsat/CoordinatorPortType HTTP/1.1
+
+method : POST url :/wls-wsat/CoordinatorPortType
+quit client ...
+链接成功了
+
+新的链接sock  port [123.207.174.234 : 53052]
+line : GET /index.php HTTP/1.1
+
+method : GET url :/index.php
+quit client ...
+链接成功了
+
+新的链接sock  port [123.207.174.234 : 53057]
+line : GET /phpmyadmin/index.php HTTP/1.1
+
+method : GET url :/phpmyadmin/index.php
+quit client ...
+链接成功了
+
+新的链接sock  port [123.207.174.234 : 53064]
+line : GET /phpMyAdmin/index.php HTTP/1.1
+
+method : GET url :/phpMyAdmin/index.php
+quit client ...
+链接成功了
+
+新的链接sock  port [123.207.174.234 : 53085]
+line : GET /pmd/index.php HTTP/1.1
+
+method : GET url :/pmd/index.php
+quit client ...
+链接成功了
+
+新的链接sock  port [123.207.174.234 : 53093]
+line : GET /pma/index.php HTTP/1.1
+
+method : GET url :/pma/index.php
+quit client ...
+链接成功了
+
+新的链接sock  port [123.207.174.234 : 53111]
+line : GET /PMA/index.php HTTP/1.1
+
+method : GET url :/PMA/index.php
+quit client ...
+链接成功了
+
+新的链接sock  port [123.207.174.234 : 53116]
+line : GET /PMA2/index.php HTTP/1.1
+
+method : GET url :/PMA2/index.php
+quit client ...
+链接成功了
+
+新的链接sock  port [123.207.174.234 : 53123]
+line : GET /pmamy/index.php HTTP/1.1
+
+method : GET url :/pmamy/index.php
+quit client ...
+链接成功了
+
+新的链接sock  port [123.207.174.234 : 53167]
+line : GET /pmamy2/index.php HTTP/1.1
+
+method : GET url :/pmamy2/index.php
+quit client ...
+链接成功了
+
+新的链接sock  port [123.207.174.234 : 53172]
+line : GET /mysql/index.php HTTP/1.1
+
+method : GET url :/mysql/index.php
+quit client ...
+链接成功了
+
+新的链接sock  port [123.207.174.234 : 53186]
+line : GET /admin/index.php HTTP/1.1
+
+method : GET url :/admin/index.php
+quit client ...
+链接成功了
+
+新的链接sock  port [123.207.174.234 : 53192]
+line : GET /db/index.php HTTP/1.1
+
+method : GET url :/db/index.php
+quit client ...
+链接成功了
+
+新的链接sock  port [123.207.174.234 : 53198]
+line : GET /dbadmin/index.php HTTP/1.1
+
+method : GET url :/dbadmin/index.php
+quit client ...
+链接成功了
+
+新的链接sock  port [123.207.174.234 : 53208]
+line : GET /web/phpMyAdmin/index.php HTTP/1.1
+
+method : GET url :/web/phpMyAdmin/index.php
+quit client ...
+链接成功了
+
+新的链接sock  port [123.207.174.234 : 53217]
+line : GET /admin/pma/index.php HTTP/1.1
+
+method : GET url :/admin/pma/index.php
+quit client ...
+链接成功了
+
+新的链接sock  port [123.207.174.234 : 53225]
+line : GET /admin/PMA/index.php HTTP/1.1
+
+method : GET url :/admin/PMA/index.php
+quit client ...
+链接成功了
+
+新的链接sock  port [123.207.174.234 : 53235]
+line : GET /admin/mysql/index.php HTTP/1.1
+
+method : GET url :/admin/mysql/index.php
+quit client ...
+链接成功了
+
+新的链接sock  port [123.207.174.234 : 53436]
+line : GET /admin/mysql2/index.php HTTP/1.1
+
+method : GET url :/admin/mysql2/index.php
+quit client ...
+链接成功了
+
+新的链接sock  port [123.207.174.234 : 53448]
+line : GET /admin/phpmyadmin/index.php HTTP/1.1
+
+method : GET url :/admin/phpmyadmin/index.php
+quit client ...
+链接成功了
+
+新的链接sock  port [123.207.174.234 : 53458]
+line : GET /admin/phpMyAdmin/index.php HTTP/1.1
+
+method : GET url :/admin/phpMyAdmin/index.php
+quit client ...
+链接成功了
+
+新的链接sock  port [123.207.174.234 : 53466]
+line : GET /admin/phpmyadmin2/index.php HTTP/1.1
+
+method : GET url :/admin/phpmyadmin2/index.php
+quit client ...
+链接成功了
+
+新的链接sock  port [123.207.174.234 : 53473]
+line : GET /mysqladmin/index.php HTTP/1.1
+
+method : GET url :/mysqladmin/index.php
+quit client ...
+链接成功了
+
+新的链接sock  port [123.207.174.234 : 53488]
+line : GET /mysql-admin/index.php HTTP/1.1
+
+method : GET url :/mysql-admin/index.php
+quit client ...
+链接成功了
+
+新的链接sock  port [123.207.174.234 : 53497]
+line : GET /phpadmin/index.php HTTP/1.1
+
+method : GET url :/phpadmin/index.php
+quit client ...
+链接成功了
+
+新的链接sock  port [123.207.174.234 : 53507]
+line : GET /phpmyadmin0/index.php HTTP/1.1
+
+method : GET url :/phpmyadmin0/index.php
+quit client ...
+链接成功了
+
+新的链接sock  port [123.207.174.234 : 53595]
+line : GET /phpmyadmin1/index.php HTTP/1.1
+
+method : GET url :/phpmyadmin1/index.php
+quit client ...
+链接成功了
+
+新的链接sock  port [123.207.174.234 : 53604]
+line : GET /phpmyadmin2/index.php HTTP/1.1
+
+method : GET url :/phpmyadmin2/index.php
+quit client ...
+链接成功了
+
+新的链接sock  port [123.207.174.234 : 53616]
+line : GET /myadmin/index.php HTTP/1.1
+
+method : GET url :/myadmin/index.php
+quit client ...
+链接成功了
+
+新的链接sock  port [123.207.174.234 : 53713]
+line : GET /myadmin2/index.php HTTP/1.1
+
+method : GET url :/myadmin2/index.php
+quit client ...
+链接成功了
+
+新的链接sock  port [123.207.174.234 : 53719]
+line : GET /xampp/phpmyadmin/index.php HTTP/1.1
+
+method : GET url :/xampp/phpmyadmin/index.php
+quit client ...
+链接成功了
+
+新的链接sock  port [123.207.174.234 : 53727]
+line : GET /phpMyadmin_bak/index.php HTTP/1.1
+
+method : GET url :/phpMyadmin_bak/index.php
+quit client ...
+链接成功了
+
+新的链接sock  port [123.207.174.234 : 53733]
+line : GET /www/phpMyAdmin/index.php HTTP/1.1
+
+method : GET url :/www/phpMyAdmin/index.php
+quit client ...
+链接成功了
+
+新的链接sock  port [123.207.174.234 : 53745]
+line : GET /tools/phpMyAdmin/index.php HTTP/1.1
+
+method : GET url :/tools/phpMyAdmin/index.php
+quit client ...
+链接成功了
+
+新的链接sock  port [123.207.174.234 : 53755]
+line : GET /phpmyadmin-old/index.php HTTP/1.1
+
+method : GET url :/phpmyadmin-old/index.php
+quit client ...
+链接成功了
+
+新的链接sock  port [123.207.174.234 : 53765]
+line : GET /phpMyAdminold/index.php HTTP/1.1
+
+method : GET url :/phpMyAdminold/index.php
+quit client ...
+链接成功了
+
+新的链接sock  port [123.207.174.234 : 53775]
+line : GET /phpMyAdmin.old/index.php HTTP/1.1
+
+method : GET url :/phpMyAdmin.old/index.php
+quit client ...
+链接成功了
+
+新的链接sock  port [123.207.174.234 : 53786]
+line : GET /pma-old/index.php HTTP/1.1
+
+method : GET url :/pma-old/index.php
+quit client ...
+链接成功了
+
+新的链接sock  port [123.207.174.234 : 53990]
+line : GET /claroline/phpMyAdmin/index.php HTTP/1.1
+
+method : GET url :/claroline/phpMyAdmin/index.php
+quit client ...
+链接成功了
+
+新的链接sock  port [123.207.174.234 : 54001]
+line : GET /typo3/phpmyadmin/index.php HTTP/1.1
+
+method : GET url :/typo3/phpmyadmin/index.php
+quit client ...
+链接成功了
+
+新的链接sock  port [123.207.174.234 : 54011]
+line : GET /phpma/index.php HTTP/1.1
+
+method : GET url :/phpma/index.php
+quit client ...
+链接成功了
+
+新的链接sock  port [123.207.174.234 : 54022]
+line : GET /phpmyadmin/phpmyadmin/index.php HTTP/1.1
+
+method : GET url :/phpmyadmin/phpmyadmin/index.php
+quit client ...
+链接成功了
+
+新的链接sock  port [123.207.174.234 : 54037]
+line : GET /phpMyAdmin/phpMyAdmin/index.php HTTP/1.1
+
+method : GET url :/phpMyAdmin/phpMyAdmin/index.php
+quit client ...
+链接成功了
+
+新的链接sock  port [178.73.215.171 : 9342]
+line : GET / HTTP/1.0
+
+method : GET url :/
+这里不管是不是正确的路径，都进入到这个函数内部了，是什么原因
+method : GET
+ url :/ 
+ path : wwwroot/index.html
+ cgi : 0
+query_string:
+    line : Accept: */*
+
+line : 
+
+quit client ...
+链接成功了
+
+新的链接sock  port [60.191.52.254 : 52118]
+line : 
+quit client ...
+链接成功了
+
+新的链接sock  port [60.191.52.254 : 52604]
+line : 
+quit client ...
+链接成功了
+
+新的链接sock  port [92.245.175.52 : 57948]
+line : GET / HTTP/1.1
+
+method : GET url :/
+这里不管是不是正确的路径，都进入到这个函数内部了，是什么原因
+method : GET
+ url :/ 
+ path : wwwroot/index.html
+ cgi : 0
+query_string:
+    line : Host: 111.230.233.159:80
+
+line : User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36
+
+line : Content-Length: 0
+
+line : 
+
+quit client ...
+链接成功了
+
+新的链接sock  port [111.18.43.131 : 1549]
+line : GET / HTTP/1.1
+
+method : GET url :/
+这里不管是不是正确的路径，都进入到这个函数内部了，是什么原因
+method : GET
+ url :/ 
+ path : wwwroot/index.html
+ cgi : 0
+query_string:
+    line : Host: neilzhy.xyz
+
+line : Connection: keep-alive
+
+line : Upgrade-Insecure-Requests: 1
+
+line : User-Agent: Mozilla/5.0 (Linux; U; Android 6.0; zh-CN; PLK-TL01H Build/HONORPLK-TL01H) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.108 Quark/2.4.2.986 Mobile Safari/537.36
+
+line : Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+
+line : Accept-Encoding: gzip, deflate
+
+line : Accept-Language: zh-CN,en-US;q=0.8
+
+line : X-UCBrowser-UA: dv(HTC 802t);pr(UCBrowser/10.2.0.535);ov(Android 5.0.2);ss(360*640);pi(1080*1920);bt(UC);pm(1);bv(1);nm(0);im(0);sr(0);nt(2);
+
+line : 
+
+quit client ...
+链接成功了
+
+新的链接sock  port [111.18.43.131 : 1550]
+链接成功了
+
+新的链接sock  port [111.18.43.131 : 1555]
+链接成功了
+
+新的链接sock  port [111.18.43.131 : 1551]
+链接成功了
+
+新的链接sock  port [111.18.43.131 : 1553]
+链接成功了
+
+新的链接sock  port [111.18.43.131 : 1554]
+链接成功了
+
+新的链接sock  port [111.18.43.131 : 1556]
+line : GET /favicon.ico HTTP/1.1
+
+method : GET url :/favicon.ico
+quit client ...
+line : GET /favicon.ico HTTP/1.1
+
+method : GET url :/favicon.ico
+quit client ...
+line : GET /favicon.ico HTTP/1.1
+
+method : GET url :/favicon.ico
+quit client ...
+line : GET /favicon.ico HTTP/1.1
+
+method : GET url :/favicon.ico
+quit client ...
+line : GET /haha.html?user=336 HTTP/1.1
+
+method : GET url :/haha.html?user=336
+这里不管是不是正确的路径，都进入到这个函数内部了，是什么原因
+
+
+
+
+
+
+文件存在path wwwroot/train_number/336.html       query_stri336.html
+
+
+
+method : GET
+ url :/haha.html 
+ path : wwwroot/train_number/336.html
+ cgi : 1
+query_string:336.html
+    line : Host: neilzhy.xyz
+
+line : Connection: keep-alive
+
+line : Upgrade-Insecure-Requests: 1
+
+line : User-Agent: Mozilla/5.0 (Linux; U; Android 6.0; zh-CN; PLK-TL01H Build/HONORPLK-TL01H) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.108 Quark/2.4.2.986 Mobile Safari/537.36
+
+line : Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+
+line : Referer: http://neilzhy.xyz/
+
+line : Accept-Encoding: gzip, deflate
+
+line : Accept-Language: zh-CN,en-US;q=0.8
+
+line : X-UCBrowser-UA: dv(HTC 802t);pr(UCBrowser/10.2.0.535);ov(Android 5.0.2);ss(360*640);pi(1080*1920);bt(UC);pm(1);bv(1);nm(0);im(0);sr(0);nt(2);
+
+line : 
+
+quit client ...
+line : GET /favicon.ico HTTP/1.1
+
+method : GET url :/favicon.ico
+quit client ...
+链接成功了
+
+新的链接sock  port [111.18.43.131 : 1583]
+line : GET /favicon.ico HTTP/1.1
+
+method : GET url :/favicon.ico
+quit client ...
+链接成功了
+
+新的链接sock  port [111.18.43.131 : 1598]
+line : GET /haha.html?user=336 HTTP/1.1
+
+method : GET url :/haha.html?user=336
+这里不管是不是正确的路径，都进入到这个函数内部了，是什么原因
+
+
+
+
+
+
+文件存在path wwwroot/train_number/336.html       query_stri336.html
+
+
+
+method : GET
+ url :/haha.html 
+ path : wwwroot/train_number/336.html
+ cgi : 1
+query_string:336.html
+    line : Host: neilzhy.xyz
+
+line : Connection: keep-alive
+
+line : Upgrade-Insecure-Requests: 1
+
+line : User-Agent: Mozilla/5.0 (Linux; U; Android 6.0; zh-CN; PLK-TL01H Build/HONORPLK-TL01H) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.108 Quark/2.4.2.986 Mobile Safari/537.36
+
+line : Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+
+line : Referer: http://neilzhy.xyz/haha.html?user=336
+
+line : Accept-Encoding: gzip, deflate
+
+line : Accept-Language: zh-CN,en-US;q=0.8
+
+line : X-UCBrowser-UA: dv(HTC 802t);pr(UCBrowser/10.2.0.535);ov(Android 5.0.2);ss(360*640);pi(1080*1920);bt(UC);pm(1);bv(1);nm(0);im(0);sr(0);nt(2);
+
+line : 
+
+quit client ...
+链接成功了
+
+新的链接sock  port [111.18.43.131 : 1599]
+line : GET /favicon.ico HTTP/1.1
+
+method : GET url :/favicon.ico
+quit client ...
+链接成功了
+
+新的链接sock  port [111.18.43.131 : 1538]
+line : GET /favicon.ico HTTP/1.1
+
+method : GET url :/favicon.ico
+quit client ...
+链接成功了
+
+新的链接sock  port [111.18.43.131 : 1550]
+line : GET /haha.html?user=719 HTTP/1.1
+
+method : GET url :/haha.html?user=719
+这里不管是不是正确的路径，都进入到这个函数内部了，是什么原因
+
+
+
+
+
+
+文件存在path wwwroot/train_number/719.html       query_stri719.html
+
+
+
+method : GET
+ url :/haha.html 
+ path : wwwroot/train_number/719.html
+ cgi : 1
+query_string:719.html
+    line : Host: neilzhy.xyz
+
+line : Connection: keep-alive
+
+line : Upgrade-Insecure-Requests: 1
+
+line : User-Agent: Mozilla/5.0 (Linux; U; Android 6.0; zh-CN; PLK-TL01H Build/HONORPLK-TL01H) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.108 Quark/2.4.2.986 Mobile Safari/537.36
+
+line : Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+
+line : Referer: http://neilzhy.xyz/haha.html?user=336
+
+line : Accept-Encoding: gzip, deflate
+
+line : Accept-Language: zh-CN,en-US;q=0.8
+
+line : X-UCBrowser-UA: dv(HTC 802t);pr(UCBrowser/10.2.0.535);ov(Android 5.0.2);ss(360*640);pi(1080*1920);bt(UC);pm(1);bv(1);nm(0);im(0);sr(0);nt(2);
+
+line : 
+
+quit client ...
+链接成功了
+
+新的链接sock  port [111.18.43.131 : 1551]
+line : GET /favicon.ico HTTP/1.1
+
+method : GET url :/favicon.ico
+quit client ...
+链接成功了
+
+新的链接sock  port [111.18.43.131 : 1552]
+line : GET /favicon.ico HTTP/1.1
+
+method : GET url :/favicon.ico
+quit client ...
+链接成功了
+
+新的链接sock  port [176.123.129.38 : 43409]
+line : GET / HTTP/1.1
+
+method : GET url :/
+这里不管是不是正确的路径，都进入到这个函�sock  port [111.18.43.131 : 8648]
+line : GET / HTTP/1.1
+
+method : GET url :/
+这里不管是不是正确的路径，都进入到这个函数内部了，是什么原因
+method : GET
+ url :/ 
+ path : wwwroot/index.html
+ cgi : 0
+query_string:
+    line : Host: www.neilzhy.xyz
+
+line : Connection: keep-alive
+
+line : Upgrade-Insecure-Requests: 1
+
+line : User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+
+line : Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+
+line : Accept-Encoding: gzip, deflate
+
+line : Accept-Language: zh-CN,zh;q=0.9
+
+line : 
+
+quit client ...
+sock  port [111.18.43.131 : 8651]
+sock  port [111.18.43.131 : 8650]
+line : GET /favicon.ico HTTP/1.1
+
+method : GET url :/favicon.ico
+quit client ...
+sock  port [111.18.43.131 : 8653]
+sock  port [111.18.43.131 : 8652]
+line : GET /favicon.ico HTTP/1.1
+
+method : GET url :/favicon.ico
+quit client ...
+line : GET /favicon.ico HTTP/1.1
+
+method : GET url :/favicon.ico
+quit client ...
+line : GET /favicon.ico HTTP/1.1
+
+method : GET url :/favicon.ico
+quit client ...
+sock  port [111.18.43.131 : 8654]
+line : GET /favicon.ico HTTP/1.1
+
+method : GET url :/favicon.ico
+quit client ...
+sock  port [111.18.43.131 : 8655]
+line : GET /haha.html?user=336 HTTP/1.1
+
+method : GET url :/haha.html?user=336
+这里不管是不是正确的路径，都进入到这个函数内部了，是什么原因
+
+
+
+
+
+
+文件存在path wwwroot/train_number/336.html       query_stri336.html
+
+
+
+method : GET
+ url :/haha.html 
+ path : wwwroot/train_number/336.html
+ cgi : 1
+query_string:336.html
+    line : Host: www.neilzhy.xyz
+
+line : Connection: keep-alive
+
+line : Upgrade-Insecure-Requests: 1
+
+line : User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+
+line : Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+
+line : Referer: http://www.neilzhy.xyz/
+
+line : Accept-Encoding: gzip, deflate
+
+line : Accept-Language: zh-CN,zh;q=0.9
+
+line : 
+
+quit client ...
+sock  port [111.18.43.131 : 8656]
+line : GET /favicon.ico HTTP/1.1
+
+method : GET url :/favicon.ico
+quit client ...
+sock  port [111.18.43.131 : 8658]
+line : GET /haha.html?user=719 HTTP/1.1
+
+method : GET url :/haha.html?user=719
+这里不管是不是正确的路径，都进入到这个函数内部了，是什么原因
+
+
+
+
+
+
+文件存在path wwwroot/train_number/719.html       query_stri719.html
+
+
+
+method : GET
+ url :/haha.html 
+ path : wwwroot/train_number/719.html
+ cgi : 1
+query_string:719.html
+    line : Host: www.neilzhy.xyz
+
+line : Connection: keep-alive
+
+line : Upgrade-Insecure-Requests: 1
+
+line : User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+
+line : Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+
+line : Referer: http://www.neilzhy.xyz/haha.html?user=336
+
+line : Accept-Encoding: gzip, deflate
+
+line : Accept-Language: zh-CN,zh;q=0.9
+
+line : 
+
+quit client ...
+sock  port [111.18.43.131 : 8659]
+line : GET /favicon.ico HTTP/1.1
+
+method : GET url :/favicon.ico
+quit client ...
+sock  port [111.18.43.131 : 8660]
+line : GET /haha.html?user=222 HTTP/1.1
+
+method : GET url :/haha.html?user=222
+这里不管是不是正确的路径，都进入到这个函数内部了，是什么原因
+method : GET
+ url :/haha.html 
+ path : wwwroot/train_number/222.html
+ cgi : 1
+query_string:222
+    line : Host: www.neilzhy.xyz
+
+line : Connection: keep-alive
+
+line : Upgrade-Insecure-Requests: 1
+
+line : User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+
+line : Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+
+line : Referer: http://www.neilzhy.xyz/haha.html?user=719
+
+line : Accept-Encoding: gzip, deflate
+
+line : Accept-Language: zh-CN,zh;q=0.9
+
+line : 
+
+quit client ...
+sock  port [111.18.43.131 : 8661]
+line : GET /f
