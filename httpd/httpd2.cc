@@ -8,8 +8,6 @@
 #include<string>
 #include<fstream>
 #include<iostream>
-#include<io.h>
-#include<string>
 
 using namespace std;
 using namespace htmlcxx;
@@ -121,6 +119,7 @@ int echo_www(int sock,char* path,int size) //GET
     //success
     if(sendfile(sock,fd,NULL,size)<0)
     {
+        //printf("error\n\n");
         echo_string(sock);
         print_log(strerror(errno),FATAL);
         return 9;
@@ -192,8 +191,8 @@ int connetser(char *query_str)
 	ii = atoi(ifokarr);
 	if(ii > 2500)
 	{
-	  int m2 = recv(sock,buf2,4999,0);
-      strcat(buf,buf2);
+	int m2 = recv(sock,buf2,4999,0);
+    strcat(buf,buf2);
 	}
     size_t len = strlen(buf); 
     iconv_t cd = iconv_open("utf-8","gb2312");
@@ -215,36 +214,35 @@ int connetser(char *query_str)
 
 	if(ii>2500)
 	{
-        FILE* pf = fopen("txt","a+");
-        fwrite(arr,1,strlen(arr),pf);
-	    HTML::ParserDom parser;
-	    tree<HTML::Node> dom = parser.parseTree(arr);
-        tree<HTML::Node>::iterator it = dom.begin();
-        tree<HTML::Node>::iterator end = dom.end();
+    FILE* pf = fopen("txt","a+");
+    fwrite(arr,1,strlen(arr),pf);
+	HTML::ParserDom parser;
+	tree<HTML::Node> dom = parser.parseTree(arr);
+    tree<HTML::Node>::iterator it = dom.begin();
+    tree<HTML::Node>::iterator end = dom.end();
 
 
-        //输出所有的文本节点内容
-	    it+=130;
-        string path = "./wwwroot/train_number/";
-        path += query_str;
-        path += ".html";
-	    ofstream fout(path);
-        fout<<"<html><head><meta charset=\"utf-8\"><title>公交查询系统</title></head><body>"<<it->text()<<"</body></html>";
-	    fout<<flush;
-	    fout.close();
-        return 0;
+    //输出所有的文本节点内容
+	it+=130;
+	//ofstream fout;
+	//ofstream fout("tt",ios::binary|ios::noreplace);
+	ofstream fout("./wwwroot/haha.html");
+    fout<<"<html><head><meta charset=\"utf-8\"><title>公交查询系统</title></head><body>"<<it->text()<<"</body></html>";
+	fout<<flush;
+	fout.close();
 	}
 	else
 	{
-		cout<<"\n\n\n\n\n\n\n访问的页面不存在\n";
+		cout<<"访问的页面不存在\n";
 		//处理其他的事情
 
-	    ofstream fout("./wwwroot/haha.html");
-        fout<<"<html><head><meta charset=\"utf-8\"><title>出错</title></head><body><p>对不起，访问的页面不存在</p></body></html>";
-	    fout<<flush;
-	    fout.close();
-        return -1;
+	ofstream fout("./wwwroot/haha.html");
+    fout<<"<html><head><meta charset=\"utf-8\"><title>出错</title></head><body><p>对不起，访问的页面不存在</p></body></html>";
+	fout<<flush;
+	fout.close();
 	}
+	printf("\n");
+    return a;
  }
 
 
@@ -325,8 +323,6 @@ void *handler_request(void *arg)
      url[i] = 0;
      printf("method : %s url :%s\n",method,url);
      //pan duan shibushi you ? hao   
-     //while循环中做的事情，是将url截断
-     //使query_string指向了336
      query_string = url;
      while(*query_string != '\0')
      {
@@ -341,6 +337,7 @@ void *handler_request(void *arg)
      }
      //pinjie genmulu
      sprintf(path,"wwwroot%s",url);
+	 printf("path \n\n\n\n\n\n\n\n\n\n\n\n\n\n%s\n\n\n\n\n\n\n\n\n\n\n\n\n\n",path);
      if(path[strlen(path) - 1] == '/')// '/'
      {
          strcat(path,"index.html");
@@ -384,39 +381,15 @@ void *handler_request(void *arg)
         //    drop_header(sock);  //!!!!!!!!      
         //    echo_www(sock,path,st.st_size);  //GET
         // }
-        //
-        //
-        //
-        // 将要访问一个查询的时候，首先检查本地有没有这个文件
-        // 如果有直接返回，如果没有使用 爬虫爬取数据，将生成的网页放在指定的目录下面
 		if(cgi)
 		{
 		    query_string+=5;	//这里query_string是一个指针，维护着url
                                 //query_string + 5之后应该获取的就是用户想要查询的车次
-            path[8] = '\0';
-            strcat(query_string,".html");
-            strcat(path,"train_number/");
-            strcat(path,query_string);
-            if(!access(path,0)) //判断车次文件夹是否有数据
-            {
-                printf("\n\n\n\n\n\n文件存在path %s       query_stri%s\n\n\n\n",path,query_string);
-            }
-            else  //如果没有数据，爬取数据放在目录下面
-            {
-                query_string[3] = '\0';
-		        if(connetser(query_string))
-                {
-                    path[21] = '\0';
-                    strcat(path,"empty.html");
-                    printf("\n\n\npath    %s\n\n\n",path);
-                }
-                //path[0] = '\0';
-                //strcat(path,"wwwroot/haha.html");
-            }
+			connetser(query_string);
 		}
         printf("method : %s\n url :%s \n path : %s\n cgi : %d\nquery_string:%s\n    ",method,url,path,cgi,query_string);
         drop_header(sock);  //!!!!!!!!      
-        stat(path,&st);  //这里设置的目的，是为了是st和最近的文件进行绑定，以便获取文件的长度
+        //printf("\n\n\n\n\n\n\n\n\n\n\n\n\n\npath is %s\n\n\n\n\n\n\n\n\n",path);
         echo_www(sock,path,st.st_size);  //GET
      }
  
