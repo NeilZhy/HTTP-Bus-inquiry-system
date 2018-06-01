@@ -256,7 +256,7 @@ int connetser(char *query_str)
         //ithtml += 15;
         ////ithtml->text() = "hahahahhaha";
         //cout<<"      ithtml      "<<ithtml->text()<<endl;
-        string prev = "<html><head><meta charset=\"utf-8\"></html><div class=\"container-fluid\"><div class=\"row-fluid\"> <div class=\"span12\"><h3 class=\"text-center\"> 公交查询系统</h3><form name=\"input\" action=\"haha.html\" method=\"get\">车次号: <input type=\"text\" name=\"user\"><input type=\"submit\" value=\"查询\">";
+        string prev = "<html><head><meta charset=\"utf-8\"></html><div class=\"container-fluid\"><div class=\"row-fluid\"> <div class=\"span12\"><h3 class=\"text-center\"> 西安公交查询系统</h3><form name=\"input\" action=\"haha.html\" method=\"get\">车次号: <input type=\"text\" name=\"user\"><input type=\"submit\" value=\"查询\">";
         string next = "<p> </p></div></div></div>";
 
         //输出所有的文本节点内容
